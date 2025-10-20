@@ -1,0 +1,1684 @@
+SessionID,Timestamp,Page,Device,SearchQuery,Category,Converted,CleanQuery
+S0000,2024-10-02 02:46:00,Landing,desktop,latest iPhone,Phones,0,latest iphone
+S0000,2024-10-02 02:46:12,Category,desktop,latest iPhone,Phones,0,latest iphone
+S0000,2024-10-02 02:46:55,Search,desktop,latest iPhone,Phones,0,latest iphone
+S0000,2024-10-02 02:47:22,Category,desktop,latest iPhone,Phones,0,latest iphone
+S0000,2024-10-02 02:47:50,Product,desktop,latest iPhone,Phones,0,latest iphone
+S0000,2024-10-02 02:48:34,Cart,desktop,latest iPhone,Phones,0,latest iphone
+S0001,2024-10-02 06:12:00,Landing,tablet,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0002,2024-10-01 21:25:00,Landing,mobile,budget smartphone,Phones,1,budget smartphone
+S0003,2024-10-02 03:44:00,Landing,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0003,2024-10-02 03:44:48,Search,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0003,2024-10-02 03:45:19,Product,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0003,2024-10-02 03:46:05,Help,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0003,2024-10-02 03:46:25,Landing,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0003,2024-10-02 03:47:16,Category,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0003,2024-10-02 03:48:04,Landing,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0003,2024-10-02 03:48:11,Search,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0004,2024-10-01 18:46:00,Landing,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0004,2024-10-01 18:46:08,Category,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0005,2024-10-01 08:13:00,Landing,desktop,latest iPhone,Phones,0,latest iphone
+S0005,2024-10-01 08:13:57,Category,desktop,latest iPhone,Phones,0,latest iphone
+S0005,2024-10-01 08:14:29,Product,desktop,latest iPhone,Phones,0,latest iphone
+S0005,2024-10-01 08:14:40,Category,desktop,latest iPhone,Phones,0,latest iphone
+S0005,2024-10-01 08:14:52,Landing,desktop,latest iPhone,Phones,0,latest iphone
+S0005,2024-10-01 08:15:10,Category,desktop,latest iPhone,Phones,0,latest iphone
+S0005,2024-10-01 08:16:04,Product,desktop,latest iPhone,Phones,0,latest iphone
+S0006,2024-10-02 01:05:00,Landing,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0006,2024-10-02 01:05:08,Category,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0006,2024-10-02 01:05:30,Product,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0007,2024-10-01 10:41:00,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0008,2024-10-01 21:35:00,Landing,mobile,best laptop for college,Laptops,1,best laptop college
+S0008,2024-10-01 21:35:44,Product,mobile,best laptop for college,Laptops,1,best laptop college
+S0009,2024-10-01 13:37:00,Landing,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0009,2024-10-01 13:37:29,Product,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0009,2024-10-01 13:38:18,Cart,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0009,2024-10-01 13:38:37,Checkout,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0009,2024-10-01 13:39:06,Purchase,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0010,2024-10-02 06:47:00,Landing,mobile,nike air max,Shoes,0,nike air max
+S0010,2024-10-02 06:47:15,Category,mobile,nike air max,Shoes,0,nike air max
+S0010,2024-10-02 06:47:27,Product,mobile,nike air max,Shoes,0,nike air max
+S0011,2024-10-01 12:48:00,Landing,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0012,2024-10-02 00:57:00,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0013,2024-10-01 20:59:00,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0013,2024-10-01 20:59:27,Category,mobile,best sunscreen,Skincare,0,best sunscreen
+S0013,2024-10-01 21:00:08,Help,mobile,best sunscreen,Skincare,0,best sunscreen
+S0014,2024-10-01 20:05:00,Landing,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0014,2024-10-01 20:05:41,Search,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0015,2024-10-01 18:42:00,Landing,desktop,latest iPhone,Phones,0,latest iphone
+S0015,2024-10-01 18:42:18,Product,desktop,latest iPhone,Phones,0,latest iphone
+S0015,2024-10-01 18:42:31,Category,desktop,latest iPhone,Phones,0,latest iphone
+S0016,2024-10-01 22:51:00,Landing,mobile,latest iPhone,Phones,1,latest iphone
+S0016,2024-10-01 22:51:43,Category,mobile,latest iPhone,Phones,1,latest iphone
+S0016,2024-10-01 22:52:19,Search,mobile,latest iPhone,Phones,1,latest iphone
+S0016,2024-10-01 22:53:00,Help,mobile,latest iPhone,Phones,1,latest iphone
+S0016,2024-10-01 22:53:49,Search,mobile,latest iPhone,Phones,1,latest iphone
+S0016,2024-10-01 22:54:22,Category,mobile,latest iPhone,Phones,1,latest iphone
+S0016,2024-10-01 22:54:58,Product,mobile,latest iPhone,Phones,1,latest iphone
+S0016,2024-10-01 22:55:53,Search,mobile,latest iPhone,Phones,1,latest iphone
+S0016,2024-10-01 22:55:59,Product,mobile,latest iPhone,Phones,1,latest iphone
+S0016,2024-10-01 22:56:56,Help,mobile,latest iPhone,Phones,1,latest iphone
+S0017,2024-10-02 01:31:00,Landing,mobile,latest iPhone,Phones,0,latest iphone
+S0017,2024-10-02 01:31:15,Search,mobile,latest iPhone,Phones,0,latest iphone
+S0017,2024-10-02 01:32:14,Product,mobile,latest iPhone,Phones,0,latest iphone
+S0018,2024-10-02 04:54:00,Landing,tablet,cheap headphones,Headphones,1,cheap headphone
+S0018,2024-10-02 04:54:31,Category,tablet,cheap headphones,Headphones,1,cheap headphone
+S0018,2024-10-02 04:55:27,Product,tablet,cheap headphones,Headphones,1,cheap headphone
+S0018,2024-10-02 04:55:34,Category,tablet,cheap headphones,Headphones,1,cheap headphone
+S0018,2024-10-02 04:55:46,Product,tablet,cheap headphones,Headphones,1,cheap headphone
+S0018,2024-10-02 04:56:27,Search,tablet,cheap headphones,Headphones,1,cheap headphone
+S0018,2024-10-02 04:57:13,Help,tablet,cheap headphones,Headphones,1,cheap headphone
+S0018,2024-10-02 04:57:32,Search,tablet,cheap headphones,Headphones,1,cheap headphone
+S0018,2024-10-02 04:58:08,Product,tablet,cheap headphones,Headphones,1,cheap headphone
+S0018,2024-10-02 04:58:53,Search,tablet,cheap headphones,Headphones,1,cheap headphone
+S0018,2024-10-02 04:59:46,Category,tablet,cheap headphones,Headphones,1,cheap headphone
+S0018,2024-10-02 05:00:02,Product,tablet,cheap headphones,Headphones,1,cheap headphone
+S0018,2024-10-02 05:00:08,Cart,tablet,cheap headphones,Headphones,1,cheap headphone
+S0019,2024-10-01 23:51:00,Landing,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0019,2024-10-01 23:51:06,Product,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0019,2024-10-01 23:51:33,Category,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0019,2024-10-01 23:52:10,Product,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0019,2024-10-01 23:52:16,Help,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0020,2024-10-01 20:09:00,Landing,tablet,running shoes men,Shoes,0,running shoe men
+S0020,2024-10-01 20:09:08,Category,tablet,running shoes men,Shoes,0,running shoe men
+S0020,2024-10-01 20:09:29,Product,tablet,running shoes men,Shoes,0,running shoe men
+S0021,2024-10-01 12:39:00,Landing,mobile,android phone under 15000,Phones,1,android phone 15000
+S0022,2024-10-02 00:21:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0022,2024-10-02 00:21:37,Category,mobile,best laptop for college,Laptops,0,best laptop college
+S0022,2024-10-02 00:21:47,Product,mobile,best laptop for college,Laptops,0,best laptop college
+S0023,2024-10-01 18:59:00,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0023,2024-10-01 18:59:30,Category,mobile,running shoes men,Shoes,0,running shoe men
+S0023,2024-10-01 18:59:53,Search,mobile,running shoes men,Shoes,0,running shoe men
+S0023,2024-10-01 19:00:04,Product,mobile,running shoes men,Shoes,0,running shoe men
+S0023,2024-10-01 19:00:41,Cart,mobile,running shoes men,Shoes,0,running shoe men
+S0023,2024-10-01 19:01:24,Checkout,mobile,running shoes men,Shoes,0,running shoe men
+S0024,2024-10-01 18:40:00,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0024,2024-10-01 18:40:54,Help,desktop,best sunscreen,Skincare,0,best sunscreen
+S0025,2024-10-02 06:01:00,Landing,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0025,2024-10-02 06:01:30,Product,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0026,2024-10-01 22:40:00,Landing,mobile,acne treatment,Skincare,1,acne treatment
+S0026,2024-10-01 22:40:16,Category,mobile,acne treatment,Skincare,1,acne treatment
+S0026,2024-10-01 22:40:52,Search,mobile,acne treatment,Skincare,1,acne treatment
+S0026,2024-10-01 22:41:05,Landing,mobile,acne treatment,Skincare,1,acne treatment
+S0026,2024-10-01 22:41:28,Category,mobile,acne treatment,Skincare,1,acne treatment
+S0027,2024-10-02 03:14:00,Landing,desktop,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0027,2024-10-02 03:14:37,Search,desktop,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0027,2024-10-02 03:14:52,Landing,desktop,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0028,2024-10-01 09:43:00,Landing,desktop,face cleanser,Skincare,0,face cleanser
+S0028,2024-10-01 09:43:29,Category,desktop,face cleanser,Skincare,0,face cleanser
+S0028,2024-10-01 09:44:02,Help,desktop,face cleanser,Skincare,0,face cleanser
+S0028,2024-10-01 09:44:52,Search,desktop,face cleanser,Skincare,0,face cleanser
+S0028,2024-10-01 09:45:50,Category,desktop,face cleanser,Skincare,0,face cleanser
+S0028,2024-10-01 09:46:35,Product,desktop,face cleanser,Skincare,0,face cleanser
+S0028,2024-10-01 09:46:43,Cart,desktop,face cleanser,Skincare,0,face cleanser
+S0028,2024-10-01 09:47:08,Checkout,desktop,face cleanser,Skincare,0,face cleanser
+S0028,2024-10-01 09:47:20,Purchase,desktop,face cleanser,Skincare,0,face cleanser
+S0029,2024-10-01 14:40:00,Landing,mobile,running shoes men,Shoes,1,running shoe men
+S0029,2024-10-01 14:40:55,Search,mobile,running shoes men,Shoes,1,running shoe men
+S0029,2024-10-01 14:41:21,Landing,mobile,running shoes men,Shoes,1,running shoe men
+S0029,2024-10-01 14:42:03,Category,mobile,running shoes men,Shoes,1,running shoe men
+S0030,2024-10-01 17:22:00,Landing,desktop,cheap headphones,Headphones,0,cheap headphone
+S0030,2024-10-01 17:22:38,Product,desktop,cheap headphones,Headphones,0,cheap headphone
+S0030,2024-10-01 17:23:15,Category,desktop,cheap headphones,Headphones,0,cheap headphone
+S0030,2024-10-01 17:23:52,Search,desktop,cheap headphones,Headphones,0,cheap headphone
+S0030,2024-10-01 17:24:44,Product,desktop,cheap headphones,Headphones,0,cheap headphone
+S0030,2024-10-01 17:25:23,Cart,desktop,cheap headphones,Headphones,0,cheap headphone
+S0031,2024-10-01 08:16:00,Landing,tablet,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0031,2024-10-01 08:16:50,Search,tablet,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0032,2024-10-01 09:38:00,Landing,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0033,2024-10-02 06:52:00,Landing,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0034,2024-10-02 02:42:00,Landing,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0034,2024-10-02 02:42:25,Category,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0034,2024-10-02 02:43:02,Product,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0034,2024-10-02 02:43:24,Cart,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0034,2024-10-02 02:43:59,Product,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0035,2024-10-02 06:26:00,Landing,desktop,android phone under 15000,Phones,0,android phone 15000
+S0035,2024-10-02 06:26:36,Category,desktop,android phone under 15000,Phones,0,android phone 15000
+S0035,2024-10-02 06:27:03,Help,desktop,android phone under 15000,Phones,0,android phone 15000
+S0035,2024-10-02 06:27:34,Landing,desktop,android phone under 15000,Phones,0,android phone 15000
+S0035,2024-10-02 06:28:04,Category,desktop,android phone under 15000,Phones,0,android phone 15000
+S0036,2024-10-02 07:36:00,Landing,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0036,2024-10-02 07:36:33,Search,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0036,2024-10-02 07:37:03,Product,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0037,2024-10-01 23:20:00,Landing,desktop,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0037,2024-10-01 23:20:11,Category,desktop,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0037,2024-10-01 23:21:00,Search,desktop,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0037,2024-10-01 23:21:12,Product,desktop,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0038,2024-10-01 14:39:00,Landing,mobile,latest iPhone,Phones,0,latest iphone
+S0039,2024-10-02 03:26:00,Landing,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0039,2024-10-02 03:26:27,Category,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0039,2024-10-02 03:27:22,Help,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0040,2024-10-01 17:34:00,Landing,tablet,face cleanser,Skincare,1,face cleanser
+S0041,2024-10-01 17:29:00,Landing,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0041,2024-10-01 17:29:10,Category,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0041,2024-10-01 17:29:57,Product,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0041,2024-10-01 17:30:34,Cart,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0042,2024-10-02 00:43:00,Landing,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0042,2024-10-02 00:43:10,Search,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0042,2024-10-02 00:44:06,Product,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0042,2024-10-02 00:44:45,Category,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0042,2024-10-02 00:45:41,Landing,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0042,2024-10-02 00:46:35,Category,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0042,2024-10-02 00:47:09,Search,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0042,2024-10-02 00:47:32,Product,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0042,2024-10-02 00:48:31,Category,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0042,2024-10-02 00:49:01,Product,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0043,2024-10-01 21:10:00,Landing,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0043,2024-10-01 21:10:05,Product,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0043,2024-10-01 21:10:10,Cart,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0043,2024-10-01 21:10:46,Checkout,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0043,2024-10-01 21:11:38,Purchase,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0044,2024-10-02 05:00:00,Landing,mobile,latest iPhone,Phones,1,latest iphone
+S0045,2024-10-01 19:43:00,Landing,desktop,nike air max,Shoes,0,nike air max
+S0045,2024-10-01 19:43:59,Product,desktop,nike air max,Shoes,0,nike air max
+S0045,2024-10-01 19:44:29,Cart,desktop,nike air max,Shoes,0,nike air max
+S0045,2024-10-01 19:45:10,Checkout,desktop,nike air max,Shoes,0,nike air max
+S0045,2024-10-01 19:45:43,Purchase,desktop,nike air max,Shoes,0,nike air max
+S0046,2024-10-02 02:12:00,Landing,mobile,android phone under 15000,Phones,1,android phone 15000
+S0046,2024-10-02 02:12:56,Category,mobile,android phone under 15000,Phones,1,android phone 15000
+S0046,2024-10-02 02:13:16,Product,mobile,android phone under 15000,Phones,1,android phone 15000
+S0046,2024-10-02 02:14:08,Cart,mobile,android phone under 15000,Phones,1,android phone 15000
+S0047,2024-10-02 05:52:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0047,2024-10-02 05:52:14,Product,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0048,2024-10-02 02:43:00,Landing,mobile,latest iPhone,Phones,0,latest iphone
+S0048,2024-10-02 02:43:23,Search,mobile,latest iPhone,Phones,0,latest iphone
+S0048,2024-10-02 02:43:28,Category,mobile,latest iPhone,Phones,0,latest iphone
+S0048,2024-10-02 02:44:17,Search,mobile,latest iPhone,Phones,0,latest iphone
+S0048,2024-10-02 02:44:45,Product,mobile,latest iPhone,Phones,0,latest iphone
+S0049,2024-10-01 12:17:00,Landing,mobile,face cleanser,Skincare,0,face cleanser
+S0049,2024-10-01 12:17:31,Product,mobile,face cleanser,Skincare,0,face cleanser
+S0050,2024-10-01 19:29:00,Landing,desktop,best sports shoes,Shoes,1,best sport shoe
+S0050,2024-10-01 19:29:55,Category,desktop,best sports shoes,Shoes,1,best sport shoe
+S0051,2024-10-02 05:31:00,Landing,mobile,android phone under 15000,Phones,1,android phone 15000
+S0052,2024-10-02 01:46:00,Landing,mobile,best laptop for college,Laptops,1,best laptop college
+S0052,2024-10-02 01:46:35,Category,mobile,best laptop for college,Laptops,1,best laptop college
+S0052,2024-10-02 01:47:30,Product,mobile,best laptop for college,Laptops,1,best laptop college
+S0052,2024-10-02 01:47:57,Help,mobile,best laptop for college,Laptops,1,best laptop college
+S0052,2024-10-02 01:48:09,Landing,mobile,best laptop for college,Laptops,1,best laptop college
+S0052,2024-10-02 01:48:23,Search,mobile,best laptop for college,Laptops,1,best laptop college
+S0052,2024-10-02 01:49:01,Product,mobile,best laptop for college,Laptops,1,best laptop college
+S0052,2024-10-02 01:49:12,Cart,mobile,best laptop for college,Laptops,1,best laptop college
+S0052,2024-10-02 01:50:09,Checkout,mobile,best laptop for college,Laptops,1,best laptop college
+S0052,2024-10-02 01:50:24,Purchase,mobile,best laptop for college,Laptops,1,best laptop college
+S0053,2024-10-01 20:08:00,Landing,desktop,nike air max,Shoes,0,nike air max
+S0053,2024-10-01 20:08:14,Category,desktop,nike air max,Shoes,0,nike air max
+S0053,2024-10-01 20:08:42,Product,desktop,nike air max,Shoes,0,nike air max
+S0054,2024-10-02 02:42:00,Landing,mobile,Sony WH-1000XM5,Headphones,1,sony wh1000xm5
+S0054,2024-10-02 02:42:43,Search,mobile,Sony WH-1000XM5,Headphones,1,sony wh1000xm5
+S0054,2024-10-02 02:43:10,Landing,mobile,Sony WH-1000XM5,Headphones,1,sony wh1000xm5
+S0055,2024-10-01 08:36:00,Landing,mobile,android phone under 15000,Phones,1,android phone 15000
+S0055,2024-10-01 08:36:27,Product,mobile,android phone under 15000,Phones,1,android phone 15000
+S0056,2024-10-01 22:32:00,Landing,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0056,2024-10-01 22:32:24,Search,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0057,2024-10-02 06:45:00,Landing,mobile,cheap headphones,Headphones,0,cheap headphone
+S0057,2024-10-02 06:45:40,Category,mobile,cheap headphones,Headphones,0,cheap headphone
+S0057,2024-10-02 06:46:25,Product,mobile,cheap headphones,Headphones,0,cheap headphone
+S0058,2024-10-01 12:24:00,Landing,mobile,lightweight ultrabook,Laptops,1,lightweight ultrabook
+S0059,2024-10-02 07:27:00,Landing,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0059,2024-10-02 07:27:20,Search,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0059,2024-10-02 07:27:59,Category,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0059,2024-10-02 07:28:55,Landing,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0059,2024-10-02 07:29:35,Product,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0060,2024-10-02 03:27:00,Landing,desktop,latest iPhone,Phones,1,latest iphone
+S0060,2024-10-02 03:27:46,Category,desktop,latest iPhone,Phones,1,latest iphone
+S0061,2024-10-01 14:37:00,Landing,mobile,latest iPhone,Phones,0,latest iphone
+S0061,2024-10-01 14:37:27,Search,mobile,latest iPhone,Phones,0,latest iphone
+S0061,2024-10-01 14:37:42,Category,mobile,latest iPhone,Phones,0,latest iphone
+S0061,2024-10-01 14:37:58,Product,mobile,latest iPhone,Phones,0,latest iphone
+S0062,2024-10-01 23:53:00,Landing,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0062,2024-10-01 23:53:11,Category,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0062,2024-10-01 23:53:55,Product,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0062,2024-10-01 23:54:49,Cart,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0063,2024-10-02 04:17:00,Landing,mobile,android phone under 15000,Phones,1,android phone 15000
+S0063,2024-10-02 04:17:23,Category,mobile,android phone under 15000,Phones,1,android phone 15000
+S0063,2024-10-02 04:18:12,Search,mobile,android phone under 15000,Phones,1,android phone 15000
+S0063,2024-10-02 04:19:08,Product,mobile,android phone under 15000,Phones,1,android phone 15000
+S0063,2024-10-02 04:19:19,Cart,mobile,android phone under 15000,Phones,1,android phone 15000
+S0064,2024-10-02 03:15:00,Landing,mobile,face cleanser,Skincare,0,face cleanser
+S0064,2024-10-02 03:15:23,Help,mobile,face cleanser,Skincare,0,face cleanser
+S0065,2024-10-02 04:05:00,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0065,2024-10-02 04:05:23,Category,desktop,best sunscreen,Skincare,0,best sunscreen
+S0065,2024-10-02 04:05:30,Product,desktop,best sunscreen,Skincare,0,best sunscreen
+S0065,2024-10-02 04:06:24,Cart,desktop,best sunscreen,Skincare,0,best sunscreen
+S0065,2024-10-02 04:06:48,Checkout,desktop,best sunscreen,Skincare,0,best sunscreen
+S0065,2024-10-02 04:07:33,Purchase,desktop,best sunscreen,Skincare,0,best sunscreen
+S0066,2024-10-01 14:26:00,Landing,desktop,running shoes men,Shoes,0,running shoe men
+S0067,2024-10-02 04:14:00,Landing,mobile,best sunscreen,Skincare,1,best sunscreen
+S0067,2024-10-02 04:14:37,Category,mobile,best sunscreen,Skincare,1,best sunscreen
+S0067,2024-10-02 04:14:47,Product,mobile,best sunscreen,Skincare,1,best sunscreen
+S0068,2024-10-01 19:24:00,Landing,tablet,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0068,2024-10-01 19:24:25,Category,tablet,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0068,2024-10-01 19:24:50,Product,tablet,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0069,2024-10-02 04:52:00,Landing,mobile,acne treatment,Skincare,0,acne treatment
+S0069,2024-10-02 04:52:22,Product,mobile,acne treatment,Skincare,0,acne treatment
+S0069,2024-10-02 04:53:15,Cart,mobile,acne treatment,Skincare,0,acne treatment
+S0070,2024-10-02 07:58:00,Landing,tablet,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0070,2024-10-02 07:58:07,Product,tablet,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0071,2024-10-02 00:10:00,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0072,2024-10-02 00:07:00,Landing,mobile,cheap headphones,Headphones,0,cheap headphone
+S0072,2024-10-02 00:07:57,Category,mobile,cheap headphones,Headphones,0,cheap headphone
+S0072,2024-10-02 00:08:29,Product,mobile,cheap headphones,Headphones,0,cheap headphone
+S0072,2024-10-02 00:08:41,Help,mobile,cheap headphones,Headphones,0,cheap headphone
+S0072,2024-10-02 00:09:35,Search,mobile,cheap headphones,Headphones,0,cheap headphone
+S0072,2024-10-02 00:10:16,Product,mobile,cheap headphones,Headphones,0,cheap headphone
+S0073,2024-10-01 16:21:00,Landing,mobile,budget smartphone,Phones,0,budget smartphone
+S0073,2024-10-01 16:21:57,Category,mobile,budget smartphone,Phones,0,budget smartphone
+S0074,2024-10-01 20:11:00,Landing,mobile,face cleanser,Skincare,1,face cleanser
+S0074,2024-10-01 20:11:39,Category,mobile,face cleanser,Skincare,1,face cleanser
+S0075,2024-10-01 22:42:00,Landing,desktop,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0075,2024-10-01 22:42:06,Product,desktop,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0075,2024-10-01 22:42:40,Cart,desktop,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0076,2024-10-01 22:36:00,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0076,2024-10-01 22:36:58,Search,mobile,running shoes men,Shoes,0,running shoe men
+S0077,2024-10-01 11:43:00,Landing,tablet,acne treatment,Skincare,0,acne treatment
+S0077,2024-10-01 11:43:30,Search,tablet,acne treatment,Skincare,0,acne treatment
+S0077,2024-10-01 11:43:56,Product,tablet,acne treatment,Skincare,0,acne treatment
+S0078,2024-10-01 19:28:00,Landing,desktop,best sunscreen,Skincare,1,best sunscreen
+S0078,2024-10-01 19:28:39,Search,desktop,best sunscreen,Skincare,1,best sunscreen
+S0078,2024-10-01 19:29:04,Product,desktop,best sunscreen,Skincare,1,best sunscreen
+S0078,2024-10-01 19:29:14,Cart,desktop,best sunscreen,Skincare,1,best sunscreen
+S0079,2024-10-01 19:48:00,Landing,tablet,lightweight ultrabook,Laptops,1,lightweight ultrabook
+S0080,2024-10-02 01:26:00,Landing,desktop,latest iPhone,Phones,0,latest iphone
+S0081,2024-10-01 09:22:00,Landing,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0081,2024-10-01 09:22:50,Search,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0081,2024-10-01 09:23:39,Product,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0081,2024-10-01 09:23:44,Help,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0082,2024-10-01 08:33:00,Landing,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0082,2024-10-01 08:33:30,Category,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0082,2024-10-01 08:34:28,Search,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0083,2024-10-02 06:09:00,Landing,desktop,face cleanser,Skincare,0,face cleanser
+S0083,2024-10-02 06:09:09,Product,desktop,face cleanser,Skincare,0,face cleanser
+S0083,2024-10-02 06:09:30,Cart,desktop,face cleanser,Skincare,0,face cleanser
+S0083,2024-10-02 06:10:21,Checkout,desktop,face cleanser,Skincare,0,face cleanser
+S0083,2024-10-02 06:11:02,Purchase,desktop,face cleanser,Skincare,0,face cleanser
+S0084,2024-10-01 17:37:00,Landing,desktop,latest iPhone,Phones,1,latest iphone
+S0085,2024-10-01 20:43:00,Landing,tablet,best sports shoes,Shoes,0,best sport shoe
+S0085,2024-10-01 20:43:22,Product,tablet,best sports shoes,Shoes,0,best sport shoe
+S0085,2024-10-01 20:43:53,Category,tablet,best sports shoes,Shoes,0,best sport shoe
+S0085,2024-10-01 20:44:31,Product,tablet,best sports shoes,Shoes,0,best sport shoe
+S0085,2024-10-01 20:45:13,Cart,tablet,best sports shoes,Shoes,0,best sport shoe
+S0085,2024-10-01 20:45:32,Checkout,tablet,best sports shoes,Shoes,0,best sport shoe
+S0085,2024-10-01 20:46:31,Purchase,tablet,best sports shoes,Shoes,0,best sport shoe
+S0086,2024-10-01 09:20:00,Landing,tablet,best laptop for college,Laptops,1,best laptop college
+S0086,2024-10-01 09:20:21,Category,tablet,best laptop for college,Laptops,1,best laptop college
+S0086,2024-10-01 09:20:45,Search,tablet,best laptop for college,Laptops,1,best laptop college
+S0086,2024-10-01 09:21:23,Category,tablet,best laptop for college,Laptops,1,best laptop college
+S0086,2024-10-01 09:21:29,Landing,tablet,best laptop for college,Laptops,1,best laptop college
+S0086,2024-10-01 09:22:16,Category,tablet,best laptop for college,Laptops,1,best laptop college
+S0086,2024-10-01 09:22:31,Search,tablet,best laptop for college,Laptops,1,best laptop college
+S0086,2024-10-01 09:22:58,Product,tablet,best laptop for college,Laptops,1,best laptop college
+S0086,2024-10-01 09:23:33,Cart,tablet,best laptop for college,Laptops,1,best laptop college
+S0086,2024-10-01 09:23:53,Checkout,tablet,best laptop for college,Laptops,1,best laptop college
+S0086,2024-10-01 09:24:37,Cart,tablet,best laptop for college,Laptops,1,best laptop college
+S0087,2024-10-01 12:40:00,Landing,desktop,face cleanser,Skincare,0,face cleanser
+S0087,2024-10-01 12:40:33,Search,desktop,face cleanser,Skincare,0,face cleanser
+S0088,2024-10-01 09:00:00,Landing,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0088,2024-10-01 09:00:09,Category,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0088,2024-10-01 09:00:55,Product,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0088,2024-10-01 09:01:20,Cart,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0088,2024-10-01 09:01:29,Checkout,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0088,2024-10-01 09:01:59,Purchase,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0089,2024-10-02 02:21:00,Landing,mobile,budget smartphone,Phones,0,budget smartphone
+S0089,2024-10-02 02:21:30,Category,mobile,budget smartphone,Phones,0,budget smartphone
+S0090,2024-10-02 03:04:00,Landing,desktop,best sports shoes,Shoes,1,best sport shoe
+S0090,2024-10-02 03:04:47,Search,desktop,best sports shoes,Shoes,1,best sport shoe
+S0091,2024-10-01 13:36:00,Landing,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0092,2024-10-01 18:24:00,Landing,desktop,face cleanser,Skincare,0,face cleanser
+S0093,2024-10-01 13:02:00,Landing,mobile,android phone under 15000,Phones,1,android phone 15000
+S0093,2024-10-01 13:02:30,Search,mobile,android phone under 15000,Phones,1,android phone 15000
+S0094,2024-10-01 09:17:00,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0094,2024-10-01 09:17:18,Help,mobile,running shoes men,Shoes,0,running shoe men
+S0094,2024-10-01 09:18:13,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0094,2024-10-01 09:19:04,Help,mobile,running shoes men,Shoes,0,running shoe men
+S0095,2024-10-01 14:02:00,Landing,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0095,2024-10-01 14:02:42,Category,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0095,2024-10-01 14:03:01,Search,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0095,2024-10-01 14:04:00,Product,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0095,2024-10-01 14:04:14,Category,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0095,2024-10-01 14:04:35,Search,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0095,2024-10-01 14:05:05,Product,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0095,2024-10-01 14:05:34,Search,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0096,2024-10-02 04:35:00,Landing,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0096,2024-10-02 04:35:45,Search,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0096,2024-10-02 04:36:36,Category,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0096,2024-10-02 04:37:02,Search,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0096,2024-10-02 04:37:14,Landing,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0096,2024-10-02 04:38:02,Product,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0096,2024-10-02 04:38:47,Cart,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0096,2024-10-02 04:39:43,Checkout,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0096,2024-10-02 04:40:21,Cart,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0096,2024-10-02 04:41:10,Checkout,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0096,2024-10-02 04:41:47,Purchase,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0097,2024-10-01 12:36:00,Landing,mobile,face cleanser,Skincare,0,face cleanser
+S0097,2024-10-01 12:36:08,Category,mobile,face cleanser,Skincare,0,face cleanser
+S0098,2024-10-01 13:49:00,Landing,mobile,Sony WH-1000XM5,Headphones,1,sony wh1000xm5
+S0099,2024-10-01 20:38:00,Landing,mobile,cheap sneakers,Shoes,1,cheap sneaker
+S0099,2024-10-01 20:38:41,Category,mobile,cheap sneakers,Shoes,1,cheap sneaker
+S0100,2024-10-02 04:46:00,Landing,desktop,latest iPhone,Phones,0,latest iphone
+S0100,2024-10-02 04:46:15,Product,desktop,latest iPhone,Phones,0,latest iphone
+S0101,2024-10-01 18:45:00,Landing,tablet,cheap sneakers,Shoes,0,cheap sneaker
+S0101,2024-10-01 18:45:42,Search,tablet,cheap sneakers,Shoes,0,cheap sneaker
+S0101,2024-10-01 18:45:48,Help,tablet,cheap sneakers,Shoes,0,cheap sneaker
+S0102,2024-10-02 07:35:00,Landing,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0103,2024-10-01 13:25:00,Landing,tablet,macbook pro 2024,Laptops,0,macbook pro 2024
+S0103,2024-10-01 13:25:24,Help,tablet,macbook pro 2024,Laptops,0,macbook pro 2024
+S0104,2024-10-01 09:52:00,Landing,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0104,2024-10-01 09:52:18,Help,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0104,2024-10-01 09:52:59,Search,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0104,2024-10-01 09:53:39,Category,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0104,2024-10-01 09:53:46,Product,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0104,2024-10-01 09:54:40,Cart,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0104,2024-10-01 09:54:49,Checkout,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0104,2024-10-01 09:55:37,Purchase,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0105,2024-10-02 03:51:00,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0105,2024-10-02 03:51:41,Category,desktop,best sunscreen,Skincare,0,best sunscreen
+S0105,2024-10-02 03:51:54,Product,desktop,best sunscreen,Skincare,0,best sunscreen
+S0105,2024-10-02 03:52:22,Search,desktop,best sunscreen,Skincare,0,best sunscreen
+S0105,2024-10-02 03:53:01,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0105,2024-10-02 03:53:54,Category,desktop,best sunscreen,Skincare,0,best sunscreen
+S0106,2024-10-01 11:55:00,Landing,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0107,2024-10-02 03:20:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0107,2024-10-02 03:20:05,Search,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0108,2024-10-01 23:17:00,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0108,2024-10-01 23:17:15,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0108,2024-10-01 23:17:33,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0108,2024-10-01 23:18:12,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0108,2024-10-01 23:18:21,Category,mobile,running shoes men,Shoes,0,running shoe men
+S0108,2024-10-01 23:18:39,Product,mobile,running shoes men,Shoes,0,running shoe men
+S0108,2024-10-01 23:18:47,Search,mobile,running shoes men,Shoes,0,running shoe men
+S0108,2024-10-01 23:19:33,Product,mobile,running shoes men,Shoes,0,running shoe men
+S0108,2024-10-01 23:20:17,Category,mobile,running shoes men,Shoes,0,running shoe men
+S0108,2024-10-01 23:21:01,Search,mobile,running shoes men,Shoes,0,running shoe men
+S0108,2024-10-01 23:21:56,Product,mobile,running shoes men,Shoes,0,running shoe men
+S0108,2024-10-01 23:22:33,Help,mobile,running shoes men,Shoes,0,running shoe men
+S0109,2024-10-01 10:22:00,Landing,desktop,nike air max,Shoes,0,nike air max
+S0109,2024-10-01 10:22:51,Search,desktop,nike air max,Shoes,0,nike air max
+S0109,2024-10-01 10:23:09,Product,desktop,nike air max,Shoes,0,nike air max
+S0109,2024-10-01 10:23:53,Cart,desktop,nike air max,Shoes,0,nike air max
+S0109,2024-10-01 10:24:48,Product,desktop,nike air max,Shoes,0,nike air max
+S0109,2024-10-01 10:24:55,Category,desktop,nike air max,Shoes,0,nike air max
+S0109,2024-10-01 10:25:07,Landing,desktop,nike air max,Shoes,0,nike air max
+S0109,2024-10-01 10:26:03,Product,desktop,nike air max,Shoes,0,nike air max
+S0110,2024-10-02 05:52:00,Landing,mobile,best sports shoes,Shoes,1,best sport shoe
+S0111,2024-10-01 14:59:00,Landing,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0111,2024-10-01 14:59:41,Landing,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0111,2024-10-01 15:00:18,Landing,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0111,2024-10-01 15:00:44,Category,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0112,2024-10-01 16:36:00,Landing,desktop,best sports shoes,Shoes,1,best sport shoe
+S0112,2024-10-01 16:36:42,Category,desktop,best sports shoes,Shoes,1,best sport shoe
+S0112,2024-10-01 16:37:33,Search,desktop,best sports shoes,Shoes,1,best sport shoe
+S0113,2024-10-01 11:35:00,Landing,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0113,2024-10-01 11:35:12,Search,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0113,2024-10-01 11:36:03,Product,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0113,2024-10-01 11:36:52,Category,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0114,2024-10-01 09:34:00,Landing,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0114,2024-10-01 09:34:30,Product,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0114,2024-10-01 09:34:39,Cart,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0115,2024-10-02 05:17:00,Landing,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0115,2024-10-02 05:17:12,Product,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0115,2024-10-02 05:17:42,Category,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0116,2024-10-01 14:35:00,Landing,tablet,best sunscreen,Skincare,0,best sunscreen
+S0116,2024-10-01 14:35:22,Category,tablet,best sunscreen,Skincare,0,best sunscreen
+S0116,2024-10-01 14:36:13,Landing,tablet,best sunscreen,Skincare,0,best sunscreen
+S0116,2024-10-01 14:37:00,Help,tablet,best sunscreen,Skincare,0,best sunscreen
+S0117,2024-10-01 13:55:00,Landing,tablet,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0117,2024-10-01 13:55:41,Landing,tablet,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0117,2024-10-01 13:56:27,Help,tablet,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0118,2024-10-02 07:21:00,Landing,mobile,best sports shoes,Shoes,0,best sport shoe
+S0118,2024-10-02 07:21:18,Category,mobile,best sports shoes,Shoes,0,best sport shoe
+S0119,2024-10-01 20:58:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0119,2024-10-01 20:58:25,Category,mobile,best laptop for college,Laptops,0,best laptop college
+S0119,2024-10-01 20:59:05,Product,mobile,best laptop for college,Laptops,0,best laptop college
+S0119,2024-10-01 20:59:10,Cart,mobile,best laptop for college,Laptops,0,best laptop college
+S0120,2024-10-01 17:26:00,Landing,mobile,cheap headphones,Headphones,1,cheap headphone
+S0120,2024-10-01 17:26:51,Product,mobile,cheap headphones,Headphones,1,cheap headphone
+S0120,2024-10-01 17:27:04,Cart,mobile,cheap headphones,Headphones,1,cheap headphone
+S0120,2024-10-01 17:28:01,Checkout,mobile,cheap headphones,Headphones,1,cheap headphone
+S0120,2024-10-01 17:28:40,Cart,mobile,cheap headphones,Headphones,1,cheap headphone
+S0120,2024-10-01 17:29:09,Checkout,mobile,cheap headphones,Headphones,1,cheap headphone
+S0121,2024-10-01 14:25:00,Landing,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0121,2024-10-01 14:25:31,Search,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0121,2024-10-01 14:26:18,Category,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0121,2024-10-01 14:27:13,Product,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0121,2024-10-01 14:27:42,Cart,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0121,2024-10-01 14:27:52,Checkout,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0121,2024-10-01 14:28:29,Purchase,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0122,2024-10-01 09:02:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0122,2024-10-01 09:02:54,Category,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0122,2024-10-01 09:03:05,Help,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0123,2024-10-02 07:04:00,Landing,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0123,2024-10-02 07:04:32,Search,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0123,2024-10-02 07:05:16,Category,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0123,2024-10-02 07:05:21,Search,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0123,2024-10-02 07:05:55,Product,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0124,2024-10-01 23:51:00,Landing,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0124,2024-10-01 23:51:33,Category,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0124,2024-10-01 23:52:06,Landing,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0124,2024-10-01 23:52:50,Search,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0124,2024-10-01 23:52:55,Landing,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0124,2024-10-01 23:53:46,Landing,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0124,2024-10-01 23:54:44,Search,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0124,2024-10-01 23:55:38,Category,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0124,2024-10-01 23:56:33,Search,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0124,2024-10-01 23:56:38,Product,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0124,2024-10-01 23:57:37,Cart,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0125,2024-10-01 21:19:00,Landing,mobile,face cleanser,Skincare,0,face cleanser
+S0126,2024-10-01 10:41:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0126,2024-10-01 10:41:32,Category,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0127,2024-10-02 07:34:00,Landing,desktop,face cleanser,Skincare,0,face cleanser
+S0127,2024-10-02 07:34:59,Category,desktop,face cleanser,Skincare,0,face cleanser
+S0127,2024-10-02 07:35:26,Product,desktop,face cleanser,Skincare,0,face cleanser
+S0128,2024-10-01 13:27:00,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0128,2024-10-01 13:27:07,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0129,2024-10-02 00:46:00,Landing,desktop,face cleanser,Skincare,1,face cleanser
+S0130,2024-10-02 02:31:00,Landing,desktop,running shoes men,Shoes,1,running shoe men
+S0131,2024-10-01 16:10:00,Landing,tablet,acne treatment,Skincare,0,acne treatment
+S0132,2024-10-01 11:01:00,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0132,2024-10-01 11:01:52,Category,mobile,best sunscreen,Skincare,0,best sunscreen
+S0132,2024-10-01 11:02:06,Product,mobile,best sunscreen,Skincare,0,best sunscreen
+S0132,2024-10-01 11:02:33,Cart,mobile,best sunscreen,Skincare,0,best sunscreen
+S0133,2024-10-02 07:24:00,Landing,desktop,best laptop for college,Laptops,0,best laptop college
+S0133,2024-10-02 07:24:22,Product,desktop,best laptop for college,Laptops,0,best laptop college
+S0134,2024-10-01 21:34:00,Landing,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0134,2024-10-01 21:34:06,Category,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0134,2024-10-01 21:35:05,Product,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0134,2024-10-01 21:35:14,Cart,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0134,2024-10-01 21:35:48,Checkout,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0134,2024-10-01 21:36:45,Purchase,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0135,2024-10-01 22:13:00,Landing,desktop,budget smartphone,Phones,1,budget smartphone
+S0135,2024-10-01 22:13:34,Category,desktop,budget smartphone,Phones,1,budget smartphone
+S0135,2024-10-01 22:14:24,Search,desktop,budget smartphone,Phones,1,budget smartphone
+S0135,2024-10-01 22:15:00,Category,desktop,budget smartphone,Phones,1,budget smartphone
+S0135,2024-10-01 22:15:55,Product,desktop,budget smartphone,Phones,1,budget smartphone
+S0135,2024-10-01 22:16:08,Search,desktop,budget smartphone,Phones,1,budget smartphone
+S0135,2024-10-01 22:16:57,Category,desktop,budget smartphone,Phones,1,budget smartphone
+S0135,2024-10-01 22:17:10,Product,desktop,budget smartphone,Phones,1,budget smartphone
+S0135,2024-10-01 22:17:57,Cart,desktop,budget smartphone,Phones,1,budget smartphone
+S0135,2024-10-01 22:18:27,Checkout,desktop,budget smartphone,Phones,1,budget smartphone
+S0135,2024-10-01 22:19:16,Purchase,desktop,budget smartphone,Phones,1,budget smartphone
+S0136,2024-10-01 21:24:00,Landing,mobile,cheap headphones,Headphones,1,cheap headphone
+S0137,2024-10-01 08:41:00,Landing,desktop,running shoes men,Shoes,1,running shoe men
+S0137,2024-10-01 08:41:21,Category,desktop,running shoes men,Shoes,1,running shoe men
+S0137,2024-10-01 08:42:03,Product,desktop,running shoes men,Shoes,1,running shoe men
+S0138,2024-10-01 13:41:00,Landing,mobile,face cleanser,Skincare,0,face cleanser
+S0139,2024-10-01 18:45:00,Landing,desktop,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0139,2024-10-01 18:45:49,Category,desktop,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0139,2024-10-01 18:46:00,Help,desktop,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0140,2024-10-02 07:44:00,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0140,2024-10-02 07:44:50,Search,mobile,best sunscreen,Skincare,0,best sunscreen
+S0140,2024-10-02 07:45:48,Product,mobile,best sunscreen,Skincare,0,best sunscreen
+S0141,2024-10-01 21:38:00,Landing,mobile,android phone under 15000,Phones,0,android phone 15000
+S0141,2024-10-01 21:38:33,Landing,mobile,android phone under 15000,Phones,0,android phone 15000
+S0141,2024-10-01 21:39:17,Search,mobile,android phone under 15000,Phones,0,android phone 15000
+S0141,2024-10-01 21:39:57,Category,mobile,android phone under 15000,Phones,0,android phone 15000
+S0142,2024-10-01 21:26:00,Landing,desktop,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0143,2024-10-01 08:54:00,Landing,desktop,nike air max,Shoes,0,nike air max
+S0144,2024-10-01 09:08:00,Landing,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0144,2024-10-01 09:08:51,Category,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0144,2024-10-01 09:09:30,Product,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0145,2024-10-01 23:57:00,Landing,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0145,2024-10-01 23:57:13,Category,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0146,2024-10-01 09:12:00,Landing,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0146,2024-10-01 09:12:29,Help,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0147,2024-10-01 08:41:00,Landing,mobile,face cleanser,Skincare,0,face cleanser
+S0147,2024-10-01 08:41:54,Category,mobile,face cleanser,Skincare,0,face cleanser
+S0148,2024-10-01 10:51:00,Landing,tablet,android phone under 15000,Phones,0,android phone 15000
+S0148,2024-10-01 10:51:16,Category,tablet,android phone under 15000,Phones,0,android phone 15000
+S0148,2024-10-01 10:52:04,Product,tablet,android phone under 15000,Phones,0,android phone 15000
+S0149,2024-10-01 21:36:00,Landing,mobile,moisturizer for dry skin,Skincare,1,moisturizer dry skin
+S0150,2024-10-01 08:11:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0151,2024-10-01 19:00:00,Landing,desktop,acne treatment,Skincare,0,acne treatment
+S0151,2024-10-01 19:00:20,Help,desktop,acne treatment,Skincare,0,acne treatment
+S0152,2024-10-01 15:45:00,Landing,mobile,cheap headphones,Headphones,1,cheap headphone
+S0152,2024-10-01 15:45:30,Category,mobile,cheap headphones,Headphones,1,cheap headphone
+S0152,2024-10-01 15:46:00,Product,mobile,cheap headphones,Headphones,1,cheap headphone
+S0152,2024-10-01 15:46:14,Cart,mobile,cheap headphones,Headphones,1,cheap headphone
+S0152,2024-10-01 15:46:35,Product,mobile,cheap headphones,Headphones,1,cheap headphone
+S0152,2024-10-01 15:47:00,Cart,mobile,cheap headphones,Headphones,1,cheap headphone
+S0152,2024-10-01 15:47:11,Checkout,mobile,cheap headphones,Headphones,1,cheap headphone
+S0152,2024-10-01 15:48:08,Purchase,mobile,cheap headphones,Headphones,1,cheap headphone
+S0153,2024-10-01 22:42:00,Landing,tablet,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0154,2024-10-01 20:06:00,Landing,desktop,android phone under 15000,Phones,1,android phone 15000
+S0154,2024-10-01 20:06:56,Help,desktop,android phone under 15000,Phones,1,android phone 15000
+S0155,2024-10-01 14:41:00,Landing,mobile,budget smartphone,Phones,1,budget smartphone
+S0155,2024-10-01 14:41:18,Product,mobile,budget smartphone,Phones,1,budget smartphone
+S0155,2024-10-01 14:41:57,Search,mobile,budget smartphone,Phones,1,budget smartphone
+S0155,2024-10-01 14:42:46,Landing,mobile,budget smartphone,Phones,1,budget smartphone
+S0155,2024-10-01 14:43:27,Category,mobile,budget smartphone,Phones,1,budget smartphone
+S0155,2024-10-01 14:43:57,Search,mobile,budget smartphone,Phones,1,budget smartphone
+S0156,2024-10-01 14:03:00,Landing,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0157,2024-10-02 06:52:00,Landing,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0157,2024-10-02 06:52:37,Help,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0158,2024-10-02 02:51:00,Landing,mobile,budget smartphone,Phones,1,budget smartphone
+S0158,2024-10-02 02:51:46,Category,mobile,budget smartphone,Phones,1,budget smartphone
+S0159,2024-10-01 12:10:00,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0159,2024-10-01 12:10:36,Search,desktop,best sunscreen,Skincare,0,best sunscreen
+S0160,2024-10-02 01:42:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0160,2024-10-02 01:42:53,Category,mobile,best laptop for college,Laptops,0,best laptop college
+S0160,2024-10-02 01:43:50,Product,mobile,best laptop for college,Laptops,0,best laptop college
+S0160,2024-10-02 01:44:10,Category,mobile,best laptop for college,Laptops,0,best laptop college
+S0161,2024-10-02 05:02:00,Landing,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0161,2024-10-02 05:02:43,Category,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0161,2024-10-02 05:02:48,Search,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0161,2024-10-02 05:02:55,Product,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0161,2024-10-02 05:03:29,Category,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0162,2024-10-01 10:25:00,Landing,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0162,2024-10-01 10:25:05,Category,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0163,2024-10-01 17:44:00,Landing,mobile,budget smartphone,Phones,0,budget smartphone
+S0163,2024-10-01 17:44:08,Search,mobile,budget smartphone,Phones,0,budget smartphone
+S0163,2024-10-01 17:44:49,Product,mobile,budget smartphone,Phones,0,budget smartphone
+S0164,2024-10-01 23:38:00,Landing,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0165,2024-10-02 06:22:00,Landing,tablet,latest iPhone,Phones,0,latest iphone
+S0165,2024-10-02 06:22:17,Search,tablet,latest iPhone,Phones,0,latest iphone
+S0166,2024-10-01 17:23:00,Landing,mobile,face cleanser,Skincare,1,face cleanser
+S0166,2024-10-01 17:23:33,Search,mobile,face cleanser,Skincare,1,face cleanser
+S0166,2024-10-01 17:24:30,Landing,mobile,face cleanser,Skincare,1,face cleanser
+S0167,2024-10-02 07:09:00,Landing,mobile,best sunscreen,Skincare,1,best sunscreen
+S0167,2024-10-02 07:09:30,Category,mobile,best sunscreen,Skincare,1,best sunscreen
+S0167,2024-10-02 07:09:37,Product,mobile,best sunscreen,Skincare,1,best sunscreen
+S0168,2024-10-01 08:53:00,Landing,tablet,face cleanser,Skincare,0,face cleanser
+S0169,2024-10-02 02:42:00,Landing,desktop,face cleanser,Skincare,1,face cleanser
+S0169,2024-10-02 02:42:46,Search,desktop,face cleanser,Skincare,1,face cleanser
+S0169,2024-10-02 02:43:08,Category,desktop,face cleanser,Skincare,1,face cleanser
+S0169,2024-10-02 02:43:36,Help,desktop,face cleanser,Skincare,1,face cleanser
+S0170,2024-10-01 21:00:00,Landing,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0170,2024-10-01 21:00:13,Search,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0171,2024-10-02 07:00:00,Landing,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0172,2024-10-02 06:26:00,Landing,mobile,android phone under 15000,Phones,1,android phone 15000
+S0172,2024-10-02 06:26:07,Search,mobile,android phone under 15000,Phones,1,android phone 15000
+S0173,2024-10-02 06:35:00,Landing,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0173,2024-10-02 06:35:29,Category,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0173,2024-10-02 06:36:07,Search,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0173,2024-10-02 06:36:26,Category,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0173,2024-10-02 06:36:35,Product,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0173,2024-10-02 06:36:57,Cart,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0173,2024-10-02 06:37:49,Checkout,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0174,2024-10-02 00:12:00,Landing,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0174,2024-10-02 00:12:36,Search,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0174,2024-10-02 00:13:31,Category,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0175,2024-10-02 01:43:00,Landing,desktop,cheap headphones,Headphones,0,cheap headphone
+S0175,2024-10-02 01:43:49,Product,desktop,cheap headphones,Headphones,0,cheap headphone
+S0176,2024-10-01 11:35:00,Landing,desktop,face cleanser,Skincare,0,face cleanser
+S0176,2024-10-01 11:35:37,Product,desktop,face cleanser,Skincare,0,face cleanser
+S0176,2024-10-01 11:36:29,Cart,desktop,face cleanser,Skincare,0,face cleanser
+S0177,2024-10-01 14:02:00,Landing,mobile,acne treatment,Skincare,0,acne treatment
+S0178,2024-10-01 13:55:00,Landing,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0178,2024-10-01 13:55:11,Landing,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0179,2024-10-01 17:16:00,Landing,desktop,latest iPhone,Phones,0,latest iphone
+S0179,2024-10-01 17:16:27,Category,desktop,latest iPhone,Phones,0,latest iphone
+S0179,2024-10-01 17:17:03,Product,desktop,latest iPhone,Phones,0,latest iphone
+S0179,2024-10-01 17:17:37,Cart,desktop,latest iPhone,Phones,0,latest iphone
+S0180,2024-10-01 09:21:00,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0181,2024-10-01 12:54:00,Landing,mobile,acne treatment,Skincare,1,acne treatment
+S0181,2024-10-01 12:54:31,Category,mobile,acne treatment,Skincare,1,acne treatment
+S0182,2024-10-01 08:16:00,Landing,mobile,cheap headphones,Headphones,1,cheap headphone
+S0182,2024-10-01 08:16:28,Search,mobile,cheap headphones,Headphones,1,cheap headphone
+S0183,2024-10-02 00:47:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0183,2024-10-02 00:47:14,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0183,2024-10-02 00:47:52,Search,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0183,2024-10-02 00:48:11,Product,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0184,2024-10-02 00:28:00,Landing,desktop,best sports shoes,Shoes,0,best sport shoe
+S0184,2024-10-02 00:28:40,Category,desktop,best sports shoes,Shoes,0,best sport shoe
+S0184,2024-10-02 00:29:11,Product,desktop,best sports shoes,Shoes,0,best sport shoe
+S0184,2024-10-02 00:29:27,Cart,desktop,best sports shoes,Shoes,0,best sport shoe
+S0184,2024-10-02 00:29:41,Checkout,desktop,best sports shoes,Shoes,0,best sport shoe
+S0184,2024-10-02 00:30:07,Purchase,desktop,best sports shoes,Shoes,0,best sport shoe
+S0185,2024-10-01 11:29:00,Landing,desktop,cheap headphones,Headphones,0,cheap headphone
+S0186,2024-10-01 12:44:00,Landing,mobile,budget smartphone,Phones,0,budget smartphone
+S0186,2024-10-01 12:44:56,Product,mobile,budget smartphone,Phones,0,budget smartphone
+S0187,2024-10-02 01:10:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0188,2024-10-01 22:38:00,Landing,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0188,2024-10-01 22:38:27,Landing,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0188,2024-10-01 22:39:17,Search,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0188,2024-10-01 22:39:25,Category,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0188,2024-10-01 22:39:42,Product,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0189,2024-10-02 05:34:00,Landing,desktop,best sports shoes,Shoes,0,best sport shoe
+S0189,2024-10-02 05:34:56,Product,desktop,best sports shoes,Shoes,0,best sport shoe
+S0190,2024-10-02 00:13:00,Landing,mobile,running shoes men,Shoes,1,running shoe men
+S0190,2024-10-02 00:13:07,Category,mobile,running shoes men,Shoes,1,running shoe men
+S0191,2024-10-01 20:27:00,Landing,mobile,acne treatment,Skincare,1,acne treatment
+S0191,2024-10-01 20:27:51,Help,mobile,acne treatment,Skincare,1,acne treatment
+S0192,2024-10-01 09:23:00,Landing,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0192,2024-10-01 09:23:07,Category,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0192,2024-10-01 09:23:49,Product,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0192,2024-10-01 09:24:28,Cart,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0192,2024-10-01 09:24:57,Checkout,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0193,2024-10-02 05:34:00,Landing,mobile,nike air max,Shoes,0,nike air max
+S0193,2024-10-02 05:34:50,Search,mobile,nike air max,Shoes,0,nike air max
+S0193,2024-10-02 05:35:23,Product,mobile,nike air max,Shoes,0,nike air max
+S0194,2024-10-01 17:50:00,Landing,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:50:11,Search,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:50:59,Landing,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:51:06,Category,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:51:25,Product,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:51:43,Category,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:52:31,Search,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:52:44,Product,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:53:10,Cart,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:54:07,Product,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:54:19,Search,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:54:36,Product,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:55:01,Cart,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:55:23,Checkout,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0194,2024-10-01 17:55:58,Purchase,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0195,2024-10-01 08:10:00,Landing,desktop,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0196,2024-10-01 09:41:00,Landing,tablet,running shoes men,Shoes,1,running shoe men
+S0196,2024-10-01 09:41:55,Help,tablet,running shoes men,Shoes,1,running shoe men
+S0196,2024-10-01 09:42:16,Landing,tablet,running shoes men,Shoes,1,running shoe men
+S0196,2024-10-01 09:43:06,Category,tablet,running shoes men,Shoes,1,running shoe men
+S0196,2024-10-01 09:43:26,Product,tablet,running shoes men,Shoes,1,running shoe men
+S0196,2024-10-01 09:43:58,Category,tablet,running shoes men,Shoes,1,running shoe men
+S0197,2024-10-01 19:53:00,Landing,desktop,face cleanser,Skincare,0,face cleanser
+S0198,2024-10-01 08:01:00,Landing,mobile,budget smartphone,Phones,0,budget smartphone
+S0199,2024-10-01 17:48:00,Landing,mobile,android phone under 15000,Phones,0,android phone 15000
+S0199,2024-10-01 17:48:06,Search,mobile,android phone under 15000,Phones,0,android phone 15000
+S0200,2024-10-01 09:29:00,Landing,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0201,2024-10-02 00:33:00,Landing,mobile,moisturizer for dry skin,Skincare,1,moisturizer dry skin
+S0201,2024-10-02 00:33:44,Product,mobile,moisturizer for dry skin,Skincare,1,moisturizer dry skin
+S0201,2024-10-02 00:33:51,Help,mobile,moisturizer for dry skin,Skincare,1,moisturizer dry skin
+S0202,2024-10-01 08:08:00,Landing,tablet,android phone under 15000,Phones,0,android phone 15000
+S0202,2024-10-01 08:08:36,Category,tablet,android phone under 15000,Phones,0,android phone 15000
+S0202,2024-10-01 08:08:52,Product,tablet,android phone under 15000,Phones,0,android phone 15000
+S0203,2024-10-02 06:21:00,Landing,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0203,2024-10-02 06:21:11,Product,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0204,2024-10-01 11:27:00,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0205,2024-10-01 14:49:00,Landing,mobile,latest iPhone,Phones,1,latest iphone
+S0205,2024-10-01 14:49:46,Category,mobile,latest iPhone,Phones,1,latest iphone
+S0205,2024-10-01 14:50:08,Product,mobile,latest iPhone,Phones,1,latest iphone
+S0205,2024-10-01 14:50:35,Cart,mobile,latest iPhone,Phones,1,latest iphone
+S0206,2024-10-02 06:04:00,Landing,desktop,budget smartphone,Phones,0,budget smartphone
+S0206,2024-10-02 06:04:50,Category,desktop,budget smartphone,Phones,0,budget smartphone
+S0206,2024-10-02 06:05:02,Product,desktop,budget smartphone,Phones,0,budget smartphone
+S0207,2024-10-01 13:08:00,Landing,desktop,nike air max,Shoes,0,nike air max
+S0207,2024-10-01 13:08:22,Search,desktop,nike air max,Shoes,0,nike air max
+S0207,2024-10-01 13:08:45,Product,desktop,nike air max,Shoes,0,nike air max
+S0207,2024-10-01 13:09:21,Cart,desktop,nike air max,Shoes,0,nike air max
+S0207,2024-10-01 13:09:28,Checkout,desktop,nike air max,Shoes,0,nike air max
+S0207,2024-10-01 13:10:23,Purchase,desktop,nike air max,Shoes,0,nike air max
+S0208,2024-10-01 09:32:00,Landing,mobile,cheap headphones,Headphones,0,cheap headphone
+S0208,2024-10-01 09:32:11,Category,mobile,cheap headphones,Headphones,0,cheap headphone
+S0208,2024-10-01 09:32:45,Search,mobile,cheap headphones,Headphones,0,cheap headphone
+S0209,2024-10-01 23:56:00,Landing,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0209,2024-10-01 23:56:32,Product,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0209,2024-10-01 23:56:56,Category,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0209,2024-10-01 23:57:50,Search,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0210,2024-10-01 18:07:00,Landing,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0210,2024-10-01 18:07:38,Category,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0210,2024-10-01 18:07:44,Search,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0210,2024-10-01 18:08:24,Landing,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0210,2024-10-01 18:09:10,Search,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0211,2024-10-01 11:05:00,Landing,tablet,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0211,2024-10-01 11:05:49,Category,tablet,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0211,2024-10-01 11:06:14,Search,tablet,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0212,2024-10-01 22:26:00,Landing,desktop,acne treatment,Skincare,0,acne treatment
+S0212,2024-10-01 22:26:34,Search,desktop,acne treatment,Skincare,0,acne treatment
+S0212,2024-10-01 22:27:22,Product,desktop,acne treatment,Skincare,0,acne treatment
+S0212,2024-10-01 22:27:28,Category,desktop,acne treatment,Skincare,0,acne treatment
+S0212,2024-10-01 22:27:37,Product,desktop,acne treatment,Skincare,0,acne treatment
+S0212,2024-10-01 22:28:22,Cart,desktop,acne treatment,Skincare,0,acne treatment
+S0212,2024-10-01 22:29:13,Checkout,desktop,acne treatment,Skincare,0,acne treatment
+S0212,2024-10-01 22:29:56,Cart,desktop,acne treatment,Skincare,0,acne treatment
+S0212,2024-10-01 22:30:02,Checkout,desktop,acne treatment,Skincare,0,acne treatment
+S0212,2024-10-01 22:30:23,Purchase,desktop,acne treatment,Skincare,0,acne treatment
+S0213,2024-10-01 08:27:00,Landing,mobile,cheap sneakers,Shoes,1,cheap sneaker
+S0213,2024-10-01 08:27:05,Product,mobile,cheap sneakers,Shoes,1,cheap sneaker
+S0214,2024-10-01 13:00:00,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0214,2024-10-01 13:00:14,Category,mobile,best sunscreen,Skincare,0,best sunscreen
+S0214,2024-10-01 13:00:32,Product,mobile,best sunscreen,Skincare,0,best sunscreen
+S0214,2024-10-01 13:01:05,Cart,mobile,best sunscreen,Skincare,0,best sunscreen
+S0214,2024-10-01 13:01:39,Checkout,mobile,best sunscreen,Skincare,0,best sunscreen
+S0214,2024-10-01 13:01:48,Purchase,mobile,best sunscreen,Skincare,0,best sunscreen
+S0215,2024-10-02 00:11:00,Landing,desktop,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0215,2024-10-02 00:11:24,Category,desktop,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0215,2024-10-02 00:12:11,Product,desktop,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0216,2024-10-02 04:27:00,Landing,mobile,budget smartphone,Phones,0,budget smartphone
+S0217,2024-10-01 10:35:00,Landing,desktop,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0217,2024-10-01 10:35:24,Product,desktop,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0217,2024-10-01 10:35:30,Cart,desktop,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0217,2024-10-01 10:36:11,Checkout,desktop,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0218,2024-10-01 21:16:00,Landing,desktop,lightweight ultrabook,Laptops,1,lightweight ultrabook
+S0218,2024-10-01 21:16:41,Category,desktop,lightweight ultrabook,Laptops,1,lightweight ultrabook
+S0219,2024-10-01 21:56:00,Landing,mobile,best sunscreen,Skincare,1,best sunscreen
+S0219,2024-10-01 21:56:16,Product,mobile,best sunscreen,Skincare,1,best sunscreen
+S0219,2024-10-01 21:57:13,Cart,mobile,best sunscreen,Skincare,1,best sunscreen
+S0219,2024-10-01 21:58:00,Checkout,mobile,best sunscreen,Skincare,1,best sunscreen
+S0219,2024-10-01 21:58:29,Purchase,mobile,best sunscreen,Skincare,1,best sunscreen
+S0220,2024-10-02 04:08:00,Landing,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0220,2024-10-02 04:08:47,Category,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0220,2024-10-02 04:09:35,Search,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0220,2024-10-02 04:10:02,Category,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0220,2024-10-02 04:10:51,Product,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0220,2024-10-02 04:11:45,Cart,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0220,2024-10-02 04:12:44,Checkout,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0220,2024-10-02 04:13:09,Purchase,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0221,2024-10-01 19:08:00,Landing,mobile,android phone under 15000,Phones,1,android phone 15000
+S0222,2024-10-01 09:25:00,Landing,mobile,android phone under 15000,Phones,0,android phone 15000
+S0222,2024-10-01 09:25:59,Product,mobile,android phone under 15000,Phones,0,android phone 15000
+S0223,2024-10-02 07:57:00,Landing,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0223,2024-10-02 07:57:12,Product,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0224,2024-10-01 17:47:00,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0224,2024-10-01 17:47:08,Landing,mobile,running shoes men,Shoes,0,running shoe men
+S0224,2024-10-01 17:47:31,Product,mobile,running shoes men,Shoes,0,running shoe men
+S0225,2024-10-02 01:56:00,Landing,desktop,android phone under 15000,Phones,0,android phone 15000
+S0225,2024-10-02 01:56:32,Product,desktop,android phone under 15000,Phones,0,android phone 15000
+S0225,2024-10-02 01:56:42,Cart,desktop,android phone under 15000,Phones,0,android phone 15000
+S0225,2024-10-02 01:57:19,Checkout,desktop,android phone under 15000,Phones,0,android phone 15000
+S0225,2024-10-02 01:58:11,Purchase,desktop,android phone under 15000,Phones,0,android phone 15000
+S0226,2024-10-01 17:48:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0226,2024-10-01 17:48:38,Category,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0226,2024-10-01 17:49:28,Product,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0227,2024-10-01 08:18:00,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0227,2024-10-01 08:18:45,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0227,2024-10-01 08:19:34,Category,desktop,best sunscreen,Skincare,0,best sunscreen
+S0228,2024-10-02 06:47:00,Landing,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0228,2024-10-02 06:47:25,Product,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0228,2024-10-02 06:47:41,Cart,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0228,2024-10-02 06:48:00,Product,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0229,2024-10-01 21:47:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0229,2024-10-01 21:47:36,Product,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0229,2024-10-01 21:48:24,Category,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0229,2024-10-01 21:48:39,Product,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0229,2024-10-01 21:49:29,Help,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0230,2024-10-02 00:01:00,Landing,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0230,2024-10-02 00:01:30,Search,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0231,2024-10-01 15:33:00,Landing,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0232,2024-10-01 19:04:00,Landing,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0232,2024-10-01 19:04:41,Search,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0232,2024-10-01 19:05:21,Product,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0232,2024-10-01 19:06:13,Help,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0233,2024-10-01 16:17:00,Landing,desktop,nike air max,Shoes,0,nike air max
+S0233,2024-10-01 16:17:25,Search,desktop,nike air max,Shoes,0,nike air max
+S0233,2024-10-01 16:18:24,Product,desktop,nike air max,Shoes,0,nike air max
+S0234,2024-10-02 03:00:00,Landing,desktop,running shoes men,Shoes,1,running shoe men
+S0234,2024-10-02 03:00:15,Category,desktop,running shoes men,Shoes,1,running shoe men
+S0234,2024-10-02 03:00:23,Product,desktop,running shoes men,Shoes,1,running shoe men
+S0235,2024-10-01 15:49:00,Landing,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0235,2024-10-01 15:49:08,Category,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0235,2024-10-01 15:50:04,Product,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0236,2024-10-01 20:30:00,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0236,2024-10-01 20:30:46,Product,mobile,best sunscreen,Skincare,0,best sunscreen
+S0236,2024-10-01 20:31:08,Help,mobile,best sunscreen,Skincare,0,best sunscreen
+S0236,2024-10-01 20:31:25,Search,mobile,best sunscreen,Skincare,0,best sunscreen
+S0236,2024-10-01 20:31:54,Category,mobile,best sunscreen,Skincare,0,best sunscreen
+S0236,2024-10-01 20:32:05,Search,mobile,best sunscreen,Skincare,0,best sunscreen
+S0236,2024-10-01 20:32:19,Help,mobile,best sunscreen,Skincare,0,best sunscreen
+S0237,2024-10-01 10:38:00,Landing,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0237,2024-10-01 10:38:46,Category,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0237,2024-10-01 10:39:26,Product,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0237,2024-10-01 10:40:24,Category,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0238,2024-10-02 07:28:00,Landing,mobile,nike air max,Shoes,0,nike air max
+S0238,2024-10-02 07:28:51,Search,mobile,nike air max,Shoes,0,nike air max
+S0239,2024-10-01 22:46:00,Landing,desktop,best sports shoes,Shoes,0,best sport shoe
+S0239,2024-10-01 22:46:32,Search,desktop,best sports shoes,Shoes,0,best sport shoe
+S0239,2024-10-01 22:46:45,Product,desktop,best sports shoes,Shoes,0,best sport shoe
+S0239,2024-10-01 22:47:13,Help,desktop,best sports shoes,Shoes,0,best sport shoe
+S0240,2024-10-01 19:21:00,Landing,tablet,latest iPhone,Phones,0,latest iphone
+S0240,2024-10-01 19:21:30,Search,tablet,latest iPhone,Phones,0,latest iphone
+S0240,2024-10-01 19:21:38,Product,tablet,latest iPhone,Phones,0,latest iphone
+S0240,2024-10-01 19:22:01,Cart,tablet,latest iPhone,Phones,0,latest iphone
+S0241,2024-10-02 03:50:00,Landing,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0241,2024-10-02 03:50:40,Category,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0241,2024-10-02 03:51:39,Product,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0241,2024-10-02 03:52:30,Search,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0241,2024-10-02 03:53:18,Product,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0242,2024-10-01 18:30:00,Landing,mobile,best laptop for college,Laptops,1,best laptop college
+S0242,2024-10-01 18:30:41,Category,mobile,best laptop for college,Laptops,1,best laptop college
+S0242,2024-10-01 18:31:13,Landing,mobile,best laptop for college,Laptops,1,best laptop college
+S0242,2024-10-01 18:31:28,Category,mobile,best laptop for college,Laptops,1,best laptop college
+S0242,2024-10-01 18:31:46,Product,mobile,best laptop for college,Laptops,1,best laptop college
+S0242,2024-10-01 18:32:15,Help,mobile,best laptop for college,Laptops,1,best laptop college
+S0243,2024-10-01 12:22:00,Landing,desktop,cheap headphones,Headphones,1,cheap headphone
+S0243,2024-10-01 12:22:58,Search,desktop,cheap headphones,Headphones,1,cheap headphone
+S0243,2024-10-01 12:23:43,Category,desktop,cheap headphones,Headphones,1,cheap headphone
+S0243,2024-10-01 12:24:26,Help,desktop,cheap headphones,Headphones,1,cheap headphone
+S0243,2024-10-01 12:25:16,Search,desktop,cheap headphones,Headphones,1,cheap headphone
+S0243,2024-10-01 12:25:46,Product,desktop,cheap headphones,Headphones,1,cheap headphone
+S0243,2024-10-01 12:26:22,Cart,desktop,cheap headphones,Headphones,1,cheap headphone
+S0243,2024-10-01 12:27:12,Checkout,desktop,cheap headphones,Headphones,1,cheap headphone
+S0243,2024-10-01 12:27:53,Purchase,desktop,cheap headphones,Headphones,1,cheap headphone
+S0244,2024-10-01 09:12:00,Landing,mobile,cheap headphones,Headphones,1,cheap headphone
+S0244,2024-10-01 09:12:45,Category,mobile,cheap headphones,Headphones,1,cheap headphone
+S0244,2024-10-01 09:13:02,Landing,mobile,cheap headphones,Headphones,1,cheap headphone
+S0244,2024-10-01 09:13:08,Search,mobile,cheap headphones,Headphones,1,cheap headphone
+S0244,2024-10-01 09:13:56,Help,mobile,cheap headphones,Headphones,1,cheap headphone
+S0244,2024-10-01 09:14:21,Search,mobile,cheap headphones,Headphones,1,cheap headphone
+S0244,2024-10-01 09:14:33,Product,mobile,cheap headphones,Headphones,1,cheap headphone
+S0245,2024-10-02 00:53:00,Landing,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0245,2024-10-02 00:53:26,Search,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0245,2024-10-02 00:53:53,Help,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0245,2024-10-02 00:54:35,Search,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0245,2024-10-02 00:55:13,Landing,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0245,2024-10-02 00:56:09,Search,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0245,2024-10-02 00:56:57,Product,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0245,2024-10-02 00:57:06,Cart,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0245,2024-10-02 00:57:41,Checkout,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0246,2024-10-01 13:10:00,Landing,mobile,acne treatment,Skincare,0,acne treatment
+S0246,2024-10-01 13:10:59,Category,mobile,acne treatment,Skincare,0,acne treatment
+S0247,2024-10-01 18:56:00,Landing,mobile,cheap headphones,Headphones,1,cheap headphone
+S0248,2024-10-01 16:34:00,Landing,tablet,best laptop for college,Laptops,1,best laptop college
+S0248,2024-10-01 16:34:32,Category,tablet,best laptop for college,Laptops,1,best laptop college
+S0249,2024-10-01 18:29:00,Landing,tablet,nike air max,Shoes,0,nike air max
+S0250,2024-10-01 14:03:00,Landing,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0250,2024-10-01 14:03:24,Product,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0250,2024-10-01 14:03:46,Help,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0251,2024-10-01 21:19:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0252,2024-10-01 20:17:00,Landing,mobile,android phone under 15000,Phones,0,android phone 15000
+S0252,2024-10-01 20:17:27,Category,mobile,android phone under 15000,Phones,0,android phone 15000
+S0252,2024-10-01 20:17:33,Product,mobile,android phone under 15000,Phones,0,android phone 15000
+S0252,2024-10-01 20:17:39,Category,mobile,android phone under 15000,Phones,0,android phone 15000
+S0253,2024-10-02 00:08:00,Landing,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0254,2024-10-02 07:50:00,Landing,tablet,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0255,2024-10-01 12:21:00,Landing,tablet,latest iPhone,Phones,0,latest iphone
+S0255,2024-10-01 12:21:26,Search,tablet,latest iPhone,Phones,0,latest iphone
+S0255,2024-10-01 12:22:22,Landing,tablet,latest iPhone,Phones,0,latest iphone
+S0255,2024-10-01 12:23:13,Category,tablet,latest iPhone,Phones,0,latest iphone
+S0255,2024-10-01 12:23:55,Product,tablet,latest iPhone,Phones,0,latest iphone
+S0256,2024-10-02 03:41:00,Landing,desktop,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0257,2024-10-01 10:13:00,Landing,mobile,nike air max,Shoes,0,nike air max
+S0257,2024-10-01 10:13:18,Category,mobile,nike air max,Shoes,0,nike air max
+S0257,2024-10-01 10:13:43,Product,mobile,nike air max,Shoes,0,nike air max
+S0257,2024-10-01 10:14:14,Cart,mobile,nike air max,Shoes,0,nike air max
+S0258,2024-10-02 04:29:00,Landing,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0258,2024-10-02 04:29:29,Product,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0258,2024-10-02 04:30:27,Search,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0258,2024-10-02 04:31:02,Product,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0258,2024-10-02 04:31:52,Category,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0259,2024-10-01 11:57:00,Landing,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0259,2024-10-01 11:57:45,Search,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0260,2024-10-02 03:00:00,Landing,mobile,cheap headphones,Headphones,0,cheap headphone
+S0260,2024-10-02 03:00:08,Search,mobile,cheap headphones,Headphones,0,cheap headphone
+S0260,2024-10-02 03:00:16,Product,mobile,cheap headphones,Headphones,0,cheap headphone
+S0260,2024-10-02 03:00:32,Cart,mobile,cheap headphones,Headphones,0,cheap headphone
+S0261,2024-10-01 09:31:00,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0261,2024-10-01 09:31:22,Search,mobile,best sunscreen,Skincare,0,best sunscreen
+S0261,2024-10-01 09:31:32,Product,mobile,best sunscreen,Skincare,0,best sunscreen
+S0261,2024-10-01 09:32:19,Cart,mobile,best sunscreen,Skincare,0,best sunscreen
+S0261,2024-10-01 09:32:46,Product,mobile,best sunscreen,Skincare,0,best sunscreen
+S0261,2024-10-01 09:33:41,Cart,mobile,best sunscreen,Skincare,0,best sunscreen
+S0261,2024-10-01 09:34:19,Product,mobile,best sunscreen,Skincare,0,best sunscreen
+S0261,2024-10-01 09:34:25,Category,mobile,best sunscreen,Skincare,0,best sunscreen
+S0261,2024-10-01 09:35:19,Search,mobile,best sunscreen,Skincare,0,best sunscreen
+S0261,2024-10-01 09:35:38,Product,mobile,best sunscreen,Skincare,0,best sunscreen
+S0262,2024-10-01 09:22:00,Landing,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0262,2024-10-01 09:22:32,Category,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0262,2024-10-01 09:23:27,Product,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0262,2024-10-01 09:23:47,Cart,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0262,2024-10-01 09:23:55,Checkout,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0262,2024-10-01 09:24:39,Cart,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0263,2024-10-02 07:02:00,Landing,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0263,2024-10-02 07:02:40,Category,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0263,2024-10-02 07:03:23,Search,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0264,2024-10-01 20:47:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0264,2024-10-01 20:47:32,Search,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0264,2024-10-01 20:47:43,Category,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0265,2024-10-01 17:57:00,Landing,tablet,Sony WH-1000XM5,Headphones,1,sony wh1000xm5
+S0265,2024-10-01 17:57:31,Category,tablet,Sony WH-1000XM5,Headphones,1,sony wh1000xm5
+S0265,2024-10-01 17:58:13,Product,tablet,Sony WH-1000XM5,Headphones,1,sony wh1000xm5
+S0265,2024-10-01 17:58:27,Cart,tablet,Sony WH-1000XM5,Headphones,1,sony wh1000xm5
+S0266,2024-10-01 23:00:00,Landing,mobile,acne treatment,Skincare,1,acne treatment
+S0266,2024-10-01 23:00:54,Category,mobile,acne treatment,Skincare,1,acne treatment
+S0266,2024-10-01 23:01:51,Landing,mobile,acne treatment,Skincare,1,acne treatment
+S0267,2024-10-01 10:52:00,Landing,mobile,moisturizer for dry skin,Skincare,1,moisturizer dry skin
+S0267,2024-10-01 10:52:53,Search,mobile,moisturizer for dry skin,Skincare,1,moisturizer dry skin
+S0267,2024-10-01 10:53:18,Category,mobile,moisturizer for dry skin,Skincare,1,moisturizer dry skin
+S0268,2024-10-01 11:02:00,Landing,mobile,budget smartphone,Phones,1,budget smartphone
+S0268,2024-10-01 11:02:38,Category,mobile,budget smartphone,Phones,1,budget smartphone
+S0268,2024-10-01 11:03:00,Product,mobile,budget smartphone,Phones,1,budget smartphone
+S0268,2024-10-01 11:03:45,Category,mobile,budget smartphone,Phones,1,budget smartphone
+S0268,2024-10-01 11:04:18,Landing,mobile,budget smartphone,Phones,1,budget smartphone
+S0268,2024-10-01 11:04:43,Search,mobile,budget smartphone,Phones,1,budget smartphone
+S0269,2024-10-01 18:24:00,Landing,tablet,android phone under 15000,Phones,1,android phone 15000
+S0269,2024-10-01 18:24:13,Landing,tablet,android phone under 15000,Phones,1,android phone 15000
+S0270,2024-10-02 03:13:00,Landing,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0270,2024-10-02 03:13:14,Category,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0271,2024-10-01 11:51:00,Landing,mobile,android phone under 15000,Phones,1,android phone 15000
+S0271,2024-10-01 11:51:38,Product,mobile,android phone under 15000,Phones,1,android phone 15000
+S0271,2024-10-01 11:52:04,Category,mobile,android phone under 15000,Phones,1,android phone 15000
+S0271,2024-10-01 11:52:23,Landing,mobile,android phone under 15000,Phones,1,android phone 15000
+S0272,2024-10-01 22:15:00,Landing,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0272,2024-10-01 22:15:48,Category,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0272,2024-10-01 22:16:29,Search,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0272,2024-10-01 22:16:41,Product,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0272,2024-10-01 22:17:28,Cart,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0273,2024-10-01 14:47:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0273,2024-10-01 14:47:24,Category,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0274,2024-10-01 14:05:00,Landing,tablet,best laptop for college,Laptops,0,best laptop college
+S0275,2024-10-02 04:34:00,Landing,desktop,running shoes men,Shoes,1,running shoe men
+S0275,2024-10-02 04:34:47,Category,desktop,running shoes men,Shoes,1,running shoe men
+S0275,2024-10-02 04:34:56,Product,desktop,running shoes men,Shoes,1,running shoe men
+S0276,2024-10-02 06:55:00,Landing,mobile,acne treatment,Skincare,0,acne treatment
+S0276,2024-10-02 06:55:51,Search,mobile,acne treatment,Skincare,0,acne treatment
+S0276,2024-10-02 06:56:23,Product,mobile,acne treatment,Skincare,0,acne treatment
+S0277,2024-10-01 13:59:00,Landing,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0277,2024-10-01 13:59:54,Search,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0277,2024-10-01 14:00:34,Product,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0277,2024-10-01 14:00:52,Help,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0277,2024-10-01 14:01:21,Landing,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0277,2024-10-01 14:02:15,Search,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0277,2024-10-01 14:02:55,Product,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0277,2024-10-01 14:03:39,Cart,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0277,2024-10-01 14:03:56,Checkout,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0277,2024-10-01 14:04:31,Cart,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0277,2024-10-01 14:05:07,Checkout,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0278,2024-10-01 16:42:00,Landing,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0278,2024-10-01 16:42:22,Category,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0278,2024-10-01 16:42:51,Product,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0278,2024-10-01 16:43:09,Category,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0278,2024-10-01 16:43:38,Product,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0278,2024-10-01 16:44:34,Cart,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0278,2024-10-01 16:44:59,Checkout,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0279,2024-10-01 19:25:00,Landing,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0280,2024-10-01 10:01:00,Landing,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0281,2024-10-01 16:16:00,Landing,mobile,acne treatment,Skincare,0,acne treatment
+S0281,2024-10-01 16:16:25,Search,mobile,acne treatment,Skincare,0,acne treatment
+S0282,2024-10-01 19:00:00,Landing,tablet,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0282,2024-10-01 19:00:50,Help,tablet,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0283,2024-10-01 11:55:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0283,2024-10-01 11:55:26,Category,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0284,2024-10-01 16:53:00,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0284,2024-10-01 16:53:06,Help,mobile,best sunscreen,Skincare,0,best sunscreen
+S0284,2024-10-01 16:53:25,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0284,2024-10-01 16:54:19,Category,mobile,best sunscreen,Skincare,0,best sunscreen
+S0284,2024-10-01 16:55:14,Product,mobile,best sunscreen,Skincare,0,best sunscreen
+S0284,2024-10-01 16:56:02,Cart,mobile,best sunscreen,Skincare,0,best sunscreen
+S0285,2024-10-01 15:00:00,Landing,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0285,2024-10-01 15:00:58,Search,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0285,2024-10-01 15:01:31,Landing,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0285,2024-10-01 15:02:19,Category,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0285,2024-10-01 15:03:00,Landing,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0285,2024-10-01 15:03:46,Category,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0285,2024-10-01 15:03:58,Search,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0285,2024-10-01 15:04:07,Product,desktop,cheap sneakers,Shoes,0,cheap sneaker
+S0286,2024-10-02 02:47:00,Landing,mobile,best sunscreen,Skincare,1,best sunscreen
+S0287,2024-10-01 15:52:00,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0287,2024-10-01 15:52:43,Help,desktop,best sunscreen,Skincare,0,best sunscreen
+S0288,2024-10-02 02:09:00,Landing,mobile,cheap sneakers,Shoes,1,cheap sneaker
+S0288,2024-10-02 02:09:56,Landing,mobile,cheap sneakers,Shoes,1,cheap sneaker
+S0288,2024-10-02 02:10:42,Search,mobile,cheap sneakers,Shoes,1,cheap sneaker
+S0289,2024-10-01 17:25:00,Landing,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0289,2024-10-01 17:25:38,Category,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0290,2024-10-02 01:23:00,Landing,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0290,2024-10-02 01:23:59,Category,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0290,2024-10-02 01:24:22,Search,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0291,2024-10-01 10:11:00,Landing,mobile,nike air max,Shoes,0,nike air max
+S0291,2024-10-01 10:11:14,Product,mobile,nike air max,Shoes,0,nike air max
+S0292,2024-10-01 11:46:00,Landing,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0292,2024-10-01 11:46:58,Product,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0293,2024-10-01 14:44:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0293,2024-10-01 14:44:49,Category,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0293,2024-10-01 14:45:48,Product,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0294,2024-10-02 04:44:00,Landing,desktop,running shoes men,Shoes,0,running shoe men
+S0294,2024-10-02 04:44:20,Category,desktop,running shoes men,Shoes,0,running shoe men
+S0294,2024-10-02 04:45:16,Product,desktop,running shoes men,Shoes,0,running shoe men
+S0294,2024-10-02 04:45:44,Search,desktop,running shoes men,Shoes,0,running shoe men
+S0294,2024-10-02 04:46:06,Help,desktop,running shoes men,Shoes,0,running shoe men
+S0295,2024-10-02 04:11:00,Landing,desktop,running shoes men,Shoes,0,running shoe men
+S0295,2024-10-02 04:11:50,Search,desktop,running shoes men,Shoes,0,running shoe men
+S0295,2024-10-02 04:12:18,Product,desktop,running shoes men,Shoes,0,running shoe men
+S0295,2024-10-02 04:12:52,Cart,desktop,running shoes men,Shoes,0,running shoe men
+S0296,2024-10-02 03:00:00,Landing,desktop,latest iPhone,Phones,1,latest iphone
+S0296,2024-10-02 03:00:52,Search,desktop,latest iPhone,Phones,1,latest iphone
+S0296,2024-10-02 03:01:26,Product,desktop,latest iPhone,Phones,1,latest iphone
+S0296,2024-10-02 03:02:25,Cart,desktop,latest iPhone,Phones,1,latest iphone
+S0296,2024-10-02 03:03:21,Checkout,desktop,latest iPhone,Phones,1,latest iphone
+S0296,2024-10-02 03:03:53,Purchase,desktop,latest iPhone,Phones,1,latest iphone
+S0297,2024-10-02 00:10:00,Landing,desktop,macbook pro 2024,Laptops,0,macbook pro 2024
+S0297,2024-10-02 00:10:37,Category,desktop,macbook pro 2024,Laptops,0,macbook pro 2024
+S0297,2024-10-02 00:10:45,Product,desktop,macbook pro 2024,Laptops,0,macbook pro 2024
+S0297,2024-10-02 00:11:36,Category,desktop,macbook pro 2024,Laptops,0,macbook pro 2024
+S0297,2024-10-02 00:11:46,Product,desktop,macbook pro 2024,Laptops,0,macbook pro 2024
+S0298,2024-10-01 10:03:00,Landing,mobile,android phone under 15000,Phones,0,android phone 15000
+S0298,2024-10-01 10:03:20,Product,mobile,android phone under 15000,Phones,0,android phone 15000
+S0298,2024-10-01 10:04:16,Cart,mobile,android phone under 15000,Phones,0,android phone 15000
+S0298,2024-10-01 10:05:10,Checkout,mobile,android phone under 15000,Phones,0,android phone 15000
+S0298,2024-10-01 10:05:57,Purchase,mobile,android phone under 15000,Phones,0,android phone 15000
+S0299,2024-10-01 12:13:00,Landing,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0299,2024-10-01 12:13:49,Product,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0300,2024-10-01 17:06:00,Landing,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0301,2024-10-02 06:52:00,Landing,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0301,2024-10-02 06:52:25,Search,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0301,2024-10-02 06:52:34,Category,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0302,2024-10-02 05:23:00,Landing,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0303,2024-10-01 23:30:00,Landing,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0303,2024-10-01 23:30:10,Help,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0303,2024-10-01 23:31:00,Landing,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0303,2024-10-01 23:31:35,Product,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0304,2024-10-02 00:24:00,Landing,tablet,budget smartphone,Phones,0,budget smartphone
+S0304,2024-10-02 00:24:48,Category,tablet,budget smartphone,Phones,0,budget smartphone
+S0304,2024-10-02 00:25:14,Product,tablet,budget smartphone,Phones,0,budget smartphone
+S0304,2024-10-02 00:25:53,Cart,tablet,budget smartphone,Phones,0,budget smartphone
+S0304,2024-10-02 00:26:11,Checkout,tablet,budget smartphone,Phones,0,budget smartphone
+S0304,2024-10-02 00:26:31,Purchase,tablet,budget smartphone,Phones,0,budget smartphone
+S0305,2024-10-01 11:24:00,Landing,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0305,2024-10-01 11:24:40,Category,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0305,2024-10-01 11:25:04,Product,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0305,2024-10-01 11:25:51,Help,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0305,2024-10-01 11:25:59,Landing,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0305,2024-10-01 11:26:30,Category,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0305,2024-10-01 11:26:49,Product,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0305,2024-10-01 11:27:04,Cart,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0306,2024-10-01 23:43:00,Landing,tablet,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0306,2024-10-01 23:43:48,Category,tablet,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0307,2024-10-01 10:21:00,Landing,desktop,adidas ultraboost,Shoes,0,adidas ultraboost
+S0308,2024-10-02 02:25:00,Landing,mobile,face cleanser,Skincare,1,face cleanser
+S0308,2024-10-02 02:25:41,Help,mobile,face cleanser,Skincare,1,face cleanser
+S0309,2024-10-01 14:10:00,Landing,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0309,2024-10-01 14:10:45,Product,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0309,2024-10-01 14:11:42,Cart,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0309,2024-10-01 14:12:28,Checkout,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0309,2024-10-01 14:12:54,Purchase,tablet,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0310,2024-10-01 17:52:00,Landing,tablet,best sports shoes,Shoes,0,best sport shoe
+S0310,2024-10-01 17:52:32,Category,tablet,best sports shoes,Shoes,0,best sport shoe
+S0311,2024-10-01 15:02:00,Landing,desktop,adidas ultraboost,Shoes,0,adidas ultraboost
+S0311,2024-10-01 15:02:10,Search,desktop,adidas ultraboost,Shoes,0,adidas ultraboost
+S0311,2024-10-01 15:02:48,Product,desktop,adidas ultraboost,Shoes,0,adidas ultraboost
+S0311,2024-10-01 15:03:13,Category,desktop,adidas ultraboost,Shoes,0,adidas ultraboost
+S0311,2024-10-01 15:03:39,Product,desktop,adidas ultraboost,Shoes,0,adidas ultraboost
+S0312,2024-10-02 02:09:00,Landing,mobile,face cleanser,Skincare,0,face cleanser
+S0313,2024-10-01 15:14:00,Landing,desktop,moisturizer for dry skin,Skincare,1,moisturizer dry skin
+S0313,2024-10-01 15:14:28,Search,desktop,moisturizer for dry skin,Skincare,1,moisturizer dry skin
+S0314,2024-10-02 05:57:00,Landing,desktop,cheap headphones,Headphones,0,cheap headphone
+S0314,2024-10-02 05:57:55,Search,desktop,cheap headphones,Headphones,0,cheap headphone
+S0315,2024-10-01 23:59:00,Landing,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0316,2024-10-02 03:37:00,Landing,mobile,cheap sneakers,Shoes,1,cheap sneaker
+S0316,2024-10-02 03:37:26,Landing,mobile,cheap sneakers,Shoes,1,cheap sneaker
+S0316,2024-10-02 03:38:10,Category,mobile,cheap sneakers,Shoes,1,cheap sneaker
+S0317,2024-10-01 18:27:00,Landing,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0317,2024-10-01 18:27:45,Category,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0317,2024-10-01 18:28:17,Search,desktop,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0318,2024-10-01 15:26:00,Landing,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0318,2024-10-01 15:26:07,Category,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0319,2024-10-02 02:40:00,Landing,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0319,2024-10-02 02:40:43,Landing,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0319,2024-10-02 02:41:12,Product,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0319,2024-10-02 02:41:59,Category,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0320,2024-10-01 13:06:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0320,2024-10-01 13:06:12,Category,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0320,2024-10-01 13:06:44,Product,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0321,2024-10-01 16:04:00,Landing,desktop,running shoes men,Shoes,1,running shoe men
+S0321,2024-10-01 16:04:51,Landing,desktop,running shoes men,Shoes,1,running shoe men
+S0321,2024-10-01 16:05:41,Category,desktop,running shoes men,Shoes,1,running shoe men
+S0321,2024-10-01 16:06:27,Search,desktop,running shoes men,Shoes,1,running shoe men
+S0321,2024-10-01 16:06:37,Category,desktop,running shoes men,Shoes,1,running shoe men
+S0322,2024-10-01 20:54:00,Landing,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0322,2024-10-01 20:54:31,Search,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0322,2024-10-01 20:55:15,Product,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0322,2024-10-01 20:55:47,Search,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0322,2024-10-01 20:55:59,Product,desktop,cheap sneakers,Shoes,1,cheap sneaker
+S0323,2024-10-01 19:27:00,Landing,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0323,2024-10-01 19:27:10,Search,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0324,2024-10-01 17:03:00,Landing,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0324,2024-10-01 17:03:59,Help,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0325,2024-10-01 17:34:00,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0325,2024-10-01 17:34:34,Category,mobile,best sunscreen,Skincare,0,best sunscreen
+S0325,2024-10-01 17:34:42,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0326,2024-10-01 12:06:00,Landing,mobile,face cleanser,Skincare,0,face cleanser
+S0326,2024-10-01 12:06:07,Product,mobile,face cleanser,Skincare,0,face cleanser
+S0326,2024-10-01 12:06:36,Search,mobile,face cleanser,Skincare,0,face cleanser
+S0327,2024-10-02 07:25:00,Landing,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0328,2024-10-01 12:24:00,Landing,desktop,best sunscreen,Skincare,1,best sunscreen
+S0328,2024-10-01 12:24:23,Search,desktop,best sunscreen,Skincare,1,best sunscreen
+S0329,2024-10-02 07:20:00,Landing,mobile,best sunscreen,Skincare,0,best sunscreen
+S0330,2024-10-01 15:36:00,Landing,mobile,lightweight ultrabook,Laptops,1,lightweight ultrabook
+S0330,2024-10-01 15:36:07,Search,mobile,lightweight ultrabook,Laptops,1,lightweight ultrabook
+S0331,2024-10-02 00:25:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0331,2024-10-02 00:25:30,Category,mobile,best laptop for college,Laptops,0,best laptop college
+S0331,2024-10-02 00:25:55,Product,mobile,best laptop for college,Laptops,0,best laptop college
+S0331,2024-10-02 00:26:33,Category,mobile,best laptop for college,Laptops,0,best laptop college
+S0331,2024-10-02 00:27:24,Product,mobile,best laptop for college,Laptops,0,best laptop college
+S0331,2024-10-02 00:27:39,Cart,mobile,best laptop for college,Laptops,0,best laptop college
+S0332,2024-10-02 03:59:00,Landing,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0332,2024-10-02 03:59:48,Help,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0333,2024-10-01 23:30:00,Landing,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0333,2024-10-01 23:30:38,Help,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0333,2024-10-01 23:31:22,Search,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0333,2024-10-01 23:32:13,Product,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0333,2024-10-01 23:32:26,Cart,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0334,2024-10-01 08:00:00,Landing,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0334,2024-10-01 08:00:07,Category,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0334,2024-10-01 08:00:36,Help,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0334,2024-10-01 08:00:55,Search,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0334,2024-10-01 08:01:34,Product,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0335,2024-10-01 23:48:00,Landing,desktop,android phone under 15000,Phones,0,android phone 15000
+S0336,2024-10-01 15:39:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0337,2024-10-01 22:04:00,Landing,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0337,2024-10-01 22:04:10,Product,desktop,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0338,2024-10-01 14:46:00,Landing,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0338,2024-10-01 14:46:50,Search,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0338,2024-10-01 14:47:30,Category,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0338,2024-10-01 14:48:09,Product,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0338,2024-10-01 14:48:27,Category,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0338,2024-10-01 14:49:20,Search,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0338,2024-10-01 14:49:48,Product,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0338,2024-10-01 14:50:30,Cart,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0338,2024-10-01 14:51:22,Checkout,mobile,noise cancelling headphones,Headphones,1,noise cancelling headphone
+S0339,2024-10-01 23:46:00,Landing,desktop,best laptop for college,Laptops,0,best laptop college
+S0339,2024-10-01 23:46:32,Product,desktop,best laptop for college,Laptops,0,best laptop college
+S0339,2024-10-01 23:46:43,Cart,desktop,best laptop for college,Laptops,0,best laptop college
+S0339,2024-10-01 23:46:56,Product,desktop,best laptop for college,Laptops,0,best laptop college
+S0339,2024-10-01 23:47:55,Cart,desktop,best laptop for college,Laptops,0,best laptop college
+S0339,2024-10-01 23:48:18,Checkout,desktop,best laptop for college,Laptops,0,best laptop college
+S0340,2024-10-01 14:37:00,Landing,mobile,android phone under 15000,Phones,0,android phone 15000
+S0340,2024-10-01 14:37:40,Category,mobile,android phone under 15000,Phones,0,android phone 15000
+S0340,2024-10-01 14:38:14,Product,mobile,android phone under 15000,Phones,0,android phone 15000
+S0340,2024-10-01 14:38:51,Cart,mobile,android phone under 15000,Phones,0,android phone 15000
+S0340,2024-10-01 14:39:20,Checkout,mobile,android phone under 15000,Phones,0,android phone 15000
+S0341,2024-10-01 21:40:00,Landing,mobile,latest iPhone,Phones,1,latest iphone
+S0341,2024-10-01 21:40:34,Category,mobile,latest iPhone,Phones,1,latest iphone
+S0341,2024-10-01 21:40:42,Search,mobile,latest iPhone,Phones,1,latest iphone
+S0342,2024-10-01 16:33:00,Landing,desktop,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0342,2024-10-01 16:33:45,Product,desktop,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0343,2024-10-02 05:18:00,Landing,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0343,2024-10-02 05:18:53,Category,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0343,2024-10-02 05:19:09,Product,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0343,2024-10-02 05:19:59,Search,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0344,2024-10-01 19:00:00,Landing,mobile,Sony WH-1000XM5,Headphones,0,sony wh1000xm5
+S0345,2024-10-02 00:52:00,Landing,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0346,2024-10-02 06:27:00,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:27:36,Category,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:28:25,Search,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:29:09,Help,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:29:25,Search,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:29:44,Category,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:30:14,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:30:40,Category,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:31:35,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:32:08,Search,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:33:07,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:33:39,Search,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:33:55,Product,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:34:21,Category,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:34:49,Product,desktop,best sunscreen,Skincare,0,best sunscreen
+S0346,2024-10-02 06:35:48,Help,desktop,best sunscreen,Skincare,0,best sunscreen
+S0347,2024-10-02 02:30:00,Landing,mobile,android phone under 15000,Phones,0,android phone 15000
+S0348,2024-10-01 17:32:00,Landing,mobile,latest iPhone,Phones,0,latest iphone
+S0348,2024-10-01 17:32:12,Category,mobile,latest iPhone,Phones,0,latest iphone
+S0348,2024-10-01 17:32:58,Product,mobile,latest iPhone,Phones,0,latest iphone
+S0349,2024-10-01 09:32:00,Landing,mobile,latest iPhone,Phones,0,latest iphone
+S0349,2024-10-01 09:32:18,Product,mobile,latest iPhone,Phones,0,latest iphone
+S0349,2024-10-01 09:33:07,Help,mobile,latest iPhone,Phones,0,latest iphone
+S0350,2024-10-01 18:52:00,Landing,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0351,2024-10-01 22:40:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0351,2024-10-01 22:40:37,Category,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0351,2024-10-01 22:41:02,Product,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0351,2024-10-01 22:41:48,Category,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0351,2024-10-01 22:42:33,Product,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0351,2024-10-01 22:43:14,Category,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0351,2024-10-01 22:43:35,Product,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0351,2024-10-01 22:44:30,Cart,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0352,2024-10-01 11:02:00,Landing,desktop,face cleanser,Skincare,0,face cleanser
+S0352,2024-10-01 11:02:15,Search,desktop,face cleanser,Skincare,0,face cleanser
+S0352,2024-10-01 11:02:30,Product,desktop,face cleanser,Skincare,0,face cleanser
+S0352,2024-10-01 11:03:20,Cart,desktop,face cleanser,Skincare,0,face cleanser
+S0352,2024-10-01 11:04:04,Checkout,desktop,face cleanser,Skincare,0,face cleanser
+S0352,2024-10-01 11:04:20,Purchase,desktop,face cleanser,Skincare,0,face cleanser
+S0353,2024-10-01 23:56:00,Landing,desktop,nike air max,Shoes,1,nike air max
+S0353,2024-10-01 23:56:52,Product,desktop,nike air max,Shoes,1,nike air max
+S0353,2024-10-01 23:57:22,Cart,desktop,nike air max,Shoes,1,nike air max
+S0354,2024-10-02 05:13:00,Landing,desktop,android phone under 15000,Phones,0,android phone 15000
+S0355,2024-10-01 10:53:00,Landing,mobile,best sports shoes,Shoes,0,best sport shoe
+S0355,2024-10-01 10:53:27,Category,mobile,best sports shoes,Shoes,0,best sport shoe
+S0355,2024-10-01 10:53:51,Product,mobile,best sports shoes,Shoes,0,best sport shoe
+S0356,2024-10-02 06:27:00,Landing,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0356,2024-10-02 06:27:22,Search,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0356,2024-10-02 06:28:13,Product,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0356,2024-10-02 06:28:37,Category,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0357,2024-10-01 13:31:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0357,2024-10-01 13:31:43,Search,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0357,2024-10-01 13:32:16,Category,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0357,2024-10-01 13:32:22,Help,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0358,2024-10-02 05:29:00,Landing,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0358,2024-10-02 05:29:13,Category,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0358,2024-10-02 05:29:45,Landing,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0358,2024-10-02 05:29:55,Category,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0358,2024-10-02 05:30:01,Product,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0358,2024-10-02 05:30:08,Search,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0358,2024-10-02 05:30:52,Category,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0359,2024-10-01 12:27:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0359,2024-10-01 12:27:49,Search,mobile,best laptop for college,Laptops,0,best laptop college
+S0359,2024-10-01 12:28:30,Product,mobile,best laptop for college,Laptops,0,best laptop college
+S0359,2024-10-01 12:29:23,Cart,mobile,best laptop for college,Laptops,0,best laptop college
+S0359,2024-10-01 12:29:52,Checkout,mobile,best laptop for college,Laptops,0,best laptop college
+S0360,2024-10-02 05:57:00,Landing,desktop,budget smartphone,Phones,1,budget smartphone
+S0360,2024-10-02 05:57:22,Product,desktop,budget smartphone,Phones,1,budget smartphone
+S0360,2024-10-02 05:58:11,Category,desktop,budget smartphone,Phones,1,budget smartphone
+S0360,2024-10-02 05:59:08,Product,desktop,budget smartphone,Phones,1,budget smartphone
+S0361,2024-10-02 01:33:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0361,2024-10-02 01:33:07,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0361,2024-10-02 01:33:55,Search,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0362,2024-10-02 02:06:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0363,2024-10-01 19:11:00,Landing,mobile,budget smartphone,Phones,1,budget smartphone
+S0363,2024-10-01 19:11:40,Product,mobile,budget smartphone,Phones,1,budget smartphone
+S0363,2024-10-01 19:12:08,Category,mobile,budget smartphone,Phones,1,budget smartphone
+S0363,2024-10-01 19:12:40,Product,mobile,budget smartphone,Phones,1,budget smartphone
+S0363,2024-10-01 19:12:48,Category,mobile,budget smartphone,Phones,1,budget smartphone
+S0363,2024-10-01 19:12:53,Product,mobile,budget smartphone,Phones,1,budget smartphone
+S0363,2024-10-01 19:13:17,Cart,mobile,budget smartphone,Phones,1,budget smartphone
+S0363,2024-10-01 19:13:31,Checkout,mobile,budget smartphone,Phones,1,budget smartphone
+S0363,2024-10-01 19:14:03,Cart,mobile,budget smartphone,Phones,1,budget smartphone
+S0363,2024-10-01 19:14:54,Checkout,mobile,budget smartphone,Phones,1,budget smartphone
+S0363,2024-10-01 19:15:09,Purchase,mobile,budget smartphone,Phones,1,budget smartphone
+S0364,2024-10-01 17:35:00,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0364,2024-10-01 17:35:56,Search,desktop,best sunscreen,Skincare,0,best sunscreen
+S0364,2024-10-01 17:36:38,Landing,desktop,best sunscreen,Skincare,0,best sunscreen
+S0364,2024-10-01 17:36:46,Search,desktop,best sunscreen,Skincare,0,best sunscreen
+S0364,2024-10-01 17:37:40,Product,desktop,best sunscreen,Skincare,0,best sunscreen
+S0364,2024-10-01 17:38:08,Category,desktop,best sunscreen,Skincare,0,best sunscreen
+S0364,2024-10-01 17:38:23,Search,desktop,best sunscreen,Skincare,0,best sunscreen
+S0364,2024-10-01 17:38:53,Product,desktop,best sunscreen,Skincare,0,best sunscreen
+S0364,2024-10-01 17:39:51,Cart,desktop,best sunscreen,Skincare,0,best sunscreen
+S0365,2024-10-02 04:57:00,Landing,mobile,android phone under 15000,Phones,1,android phone 15000
+S0365,2024-10-02 04:57:19,Category,mobile,android phone under 15000,Phones,1,android phone 15000
+S0365,2024-10-02 04:58:05,Search,mobile,android phone under 15000,Phones,1,android phone 15000
+S0366,2024-10-01 10:04:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0366,2024-10-01 10:04:39,Search,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0367,2024-10-01 21:05:00,Landing,desktop,latest iPhone,Phones,0,latest iphone
+S0368,2024-10-01 09:16:00,Landing,desktop,best sports shoes,Shoes,1,best sport shoe
+S0368,2024-10-01 09:16:21,Category,desktop,best sports shoes,Shoes,1,best sport shoe
+S0368,2024-10-01 09:17:13,Product,desktop,best sports shoes,Shoes,1,best sport shoe
+S0369,2024-10-02 02:12:00,Landing,mobile,cheap headphones,Headphones,0,cheap headphone
+S0369,2024-10-02 02:12:38,Product,mobile,cheap headphones,Headphones,0,cheap headphone
+S0369,2024-10-02 02:13:35,Cart,mobile,cheap headphones,Headphones,0,cheap headphone
+S0370,2024-10-01 23:46:00,Landing,mobile,latest iPhone,Phones,0,latest iphone
+S0371,2024-10-02 02:52:00,Landing,mobile,latest iPhone,Phones,0,latest iphone
+S0371,2024-10-02 02:52:50,Category,mobile,latest iPhone,Phones,0,latest iphone
+S0371,2024-10-02 02:53:15,Help,mobile,latest iPhone,Phones,0,latest iphone
+S0372,2024-10-01 13:58:00,Landing,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0372,2024-10-01 13:58:28,Category,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0373,2024-10-01 23:08:00,Landing,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0373,2024-10-01 23:08:55,Search,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0374,2024-10-02 02:42:00,Landing,desktop,running shoes men,Shoes,1,running shoe men
+S0374,2024-10-02 02:42:28,Product,desktop,running shoes men,Shoes,1,running shoe men
+S0374,2024-10-02 02:43:09,Help,desktop,running shoes men,Shoes,1,running shoe men
+S0375,2024-10-01 16:39:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0375,2024-10-01 16:39:40,Search,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0376,2024-10-01 09:03:00,Landing,desktop,adidas ultraboost,Shoes,0,adidas ultraboost
+S0376,2024-10-01 09:03:58,Product,desktop,adidas ultraboost,Shoes,0,adidas ultraboost
+S0376,2024-10-01 09:04:14,Search,desktop,adidas ultraboost,Shoes,0,adidas ultraboost
+S0376,2024-10-01 09:05:12,Product,desktop,adidas ultraboost,Shoes,0,adidas ultraboost
+S0377,2024-10-01 15:55:00,Landing,mobile,nike air max,Shoes,0,nike air max
+S0377,2024-10-01 15:55:45,Product,mobile,nike air max,Shoes,0,nike air max
+S0378,2024-10-01 22:42:00,Landing,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0379,2024-10-01 21:39:00,Landing,desktop,best sports shoes,Shoes,0,best sport shoe
+S0379,2024-10-01 21:39:40,Product,desktop,best sports shoes,Shoes,0,best sport shoe
+S0379,2024-10-01 21:40:17,Cart,desktop,best sports shoes,Shoes,0,best sport shoe
+S0379,2024-10-01 21:40:44,Product,desktop,best sports shoes,Shoes,0,best sport shoe
+S0379,2024-10-01 21:40:59,Category,desktop,best sports shoes,Shoes,0,best sport shoe
+S0380,2024-10-01 16:18:00,Landing,desktop,lightweight ultrabook,Laptops,1,lightweight ultrabook
+S0381,2024-10-02 00:13:00,Landing,mobile,android phone under 15000,Phones,1,android phone 15000
+S0381,2024-10-02 00:13:51,Search,mobile,android phone under 15000,Phones,1,android phone 15000
+S0382,2024-10-01 20:51:00,Landing,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0382,2024-10-01 20:51:13,Search,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0382,2024-10-01 20:52:02,Product,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0382,2024-10-01 20:52:55,Category,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0382,2024-10-01 20:53:07,Product,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0382,2024-10-01 20:53:49,Cart,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0382,2024-10-01 20:53:58,Checkout,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0382,2024-10-01 20:54:48,Purchase,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0383,2024-10-01 19:59:00,Landing,desktop,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0384,2024-10-01 19:22:00,Landing,desktop,latest iPhone,Phones,0,latest iphone
+S0384,2024-10-01 19:22:25,Search,desktop,latest iPhone,Phones,0,latest iphone
+S0384,2024-10-01 19:22:31,Product,desktop,latest iPhone,Phones,0,latest iphone
+S0384,2024-10-01 19:23:10,Cart,desktop,latest iPhone,Phones,0,latest iphone
+S0384,2024-10-01 19:23:44,Checkout,desktop,latest iPhone,Phones,0,latest iphone
+S0384,2024-10-01 19:24:07,Purchase,desktop,latest iPhone,Phones,0,latest iphone
+S0385,2024-10-01 21:13:00,Landing,desktop,best sports shoes,Shoes,1,best sport shoe
+S0385,2024-10-01 21:13:11,Category,desktop,best sports shoes,Shoes,1,best sport shoe
+S0385,2024-10-01 21:13:51,Product,desktop,best sports shoes,Shoes,1,best sport shoe
+S0386,2024-10-01 08:00:00,Landing,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0386,2024-10-01 08:00:12,Category,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0387,2024-10-02 03:11:00,Landing,desktop,cheap headphones,Headphones,0,cheap headphone
+S0388,2024-10-01 17:06:00,Landing,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0388,2024-10-01 17:06:13,Category,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0389,2024-10-02 07:27:00,Landing,desktop,android phone under 15000,Phones,0,android phone 15000
+S0389,2024-10-02 07:27:15,Category,desktop,android phone under 15000,Phones,0,android phone 15000
+S0389,2024-10-02 07:27:22,Product,desktop,android phone under 15000,Phones,0,android phone 15000
+S0389,2024-10-02 07:27:39,Help,desktop,android phone under 15000,Phones,0,android phone 15000
+S0390,2024-10-02 05:53:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0390,2024-10-02 05:53:42,Category,mobile,best laptop for college,Laptops,0,best laptop college
+S0390,2024-10-02 05:54:26,Product,mobile,best laptop for college,Laptops,0,best laptop college
+S0390,2024-10-02 05:55:04,Cart,mobile,best laptop for college,Laptops,0,best laptop college
+S0391,2024-10-02 07:01:00,Landing,mobile,face cleanser,Skincare,0,face cleanser
+S0391,2024-10-02 07:01:17,Category,mobile,face cleanser,Skincare,0,face cleanser
+S0391,2024-10-02 07:01:52,Help,mobile,face cleanser,Skincare,0,face cleanser
+S0391,2024-10-02 07:02:35,Search,mobile,face cleanser,Skincare,0,face cleanser
+S0391,2024-10-02 07:03:02,Category,mobile,face cleanser,Skincare,0,face cleanser
+S0392,2024-10-02 01:30:00,Landing,mobile,face cleanser,Skincare,1,face cleanser
+S0392,2024-10-02 01:30:43,Product,mobile,face cleanser,Skincare,1,face cleanser
+S0392,2024-10-02 01:31:28,Cart,mobile,face cleanser,Skincare,1,face cleanser
+S0392,2024-10-02 01:31:45,Checkout,mobile,face cleanser,Skincare,1,face cleanser
+S0392,2024-10-02 01:32:42,Cart,mobile,face cleanser,Skincare,1,face cleanser
+S0392,2024-10-02 01:33:11,Checkout,mobile,face cleanser,Skincare,1,face cleanser
+S0392,2024-10-02 01:33:32,Purchase,mobile,face cleanser,Skincare,1,face cleanser
+S0393,2024-10-01 17:03:00,Landing,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0393,2024-10-01 17:03:12,Product,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0393,2024-10-01 17:03:36,Search,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0393,2024-10-01 17:03:54,Help,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0394,2024-10-02 00:51:00,Landing,mobile,cheap headphones,Headphones,1,cheap headphone
+S0394,2024-10-02 00:51:34,Category,mobile,cheap headphones,Headphones,1,cheap headphone
+S0394,2024-10-02 00:51:51,Search,mobile,cheap headphones,Headphones,1,cheap headphone
+S0395,2024-10-01 20:55:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0395,2024-10-01 20:55:18,Search,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0396,2024-10-01 13:53:00,Landing,desktop,android phone under 15000,Phones,0,android phone 15000
+S0396,2024-10-01 13:53:53,Category,desktop,android phone under 15000,Phones,0,android phone 15000
+S0396,2024-10-01 13:54:28,Product,desktop,android phone under 15000,Phones,0,android phone 15000
+S0396,2024-10-01 13:55:01,Cart,desktop,android phone under 15000,Phones,0,android phone 15000
+S0396,2024-10-01 13:55:37,Checkout,desktop,android phone under 15000,Phones,0,android phone 15000
+S0396,2024-10-01 13:55:58,Cart,desktop,android phone under 15000,Phones,0,android phone 15000
+S0396,2024-10-01 13:56:52,Checkout,desktop,android phone under 15000,Phones,0,android phone 15000
+S0396,2024-10-01 13:57:02,Purchase,desktop,android phone under 15000,Phones,0,android phone 15000
+S0397,2024-10-01 22:48:00,Landing,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0398,2024-10-01 18:32:00,Landing,mobile,best sports shoes,Shoes,0,best sport shoe
+S0398,2024-10-01 18:32:31,Category,mobile,best sports shoes,Shoes,0,best sport shoe
+S0399,2024-10-01 18:11:00,Landing,tablet,best sunscreen,Skincare,0,best sunscreen
+S0400,2024-10-02 02:26:00,Landing,tablet,best sunscreen,Skincare,0,best sunscreen
+S0400,2024-10-02 02:26:16,Search,tablet,best sunscreen,Skincare,0,best sunscreen
+S0400,2024-10-02 02:26:37,Help,tablet,best sunscreen,Skincare,0,best sunscreen
+S0401,2024-10-01 11:37:00,Landing,desktop,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0402,2024-10-01 18:31:00,Landing,desktop,cheap headphones,Headphones,0,cheap headphone
+S0402,2024-10-01 18:31:25,Category,desktop,cheap headphones,Headphones,0,cheap headphone
+S0403,2024-10-02 01:16:00,Landing,mobile,best sports shoes,Shoes,1,best sport shoe
+S0403,2024-10-02 01:16:15,Category,mobile,best sports shoes,Shoes,1,best sport shoe
+S0404,2024-10-01 15:10:00,Landing,tablet,acne treatment,Skincare,1,acne treatment
+S0404,2024-10-01 15:10:24,Category,tablet,acne treatment,Skincare,1,acne treatment
+S0405,2024-10-02 05:56:00,Landing,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0405,2024-10-02 05:56:52,Search,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0405,2024-10-02 05:57:37,Product,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0405,2024-10-02 05:58:29,Category,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0405,2024-10-02 05:58:47,Product,mobile,gaming laptop RTX,Laptops,1,gaming laptop rtx
+S0406,2024-10-01 22:32:00,Landing,mobile,android phone under 15000,Phones,0,android phone 15000
+S0406,2024-10-01 22:32:22,Landing,mobile,android phone under 15000,Phones,0,android phone 15000
+S0406,2024-10-01 22:33:02,Product,mobile,android phone under 15000,Phones,0,android phone 15000
+S0407,2024-10-01 18:48:00,Landing,desktop,latest iPhone,Phones,1,latest iphone
+S0407,2024-10-01 18:48:26,Search,desktop,latest iPhone,Phones,1,latest iphone
+S0407,2024-10-01 18:49:15,Product,desktop,latest iPhone,Phones,1,latest iphone
+S0408,2024-10-01 10:41:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0409,2024-10-01 12:33:00,Landing,desktop,cheap headphones,Headphones,0,cheap headphone
+S0410,2024-10-01 23:39:00,Landing,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0410,2024-10-01 23:39:58,Help,mobile,bluetooth earbuds,Headphones,1,bluetooth earbuds
+S0411,2024-10-02 05:15:00,Landing,mobile,face cleanser,Skincare,1,face cleanser
+S0411,2024-10-02 05:15:53,Product,mobile,face cleanser,Skincare,1,face cleanser
+S0411,2024-10-02 05:16:07,Cart,mobile,face cleanser,Skincare,1,face cleanser
+S0411,2024-10-02 05:16:58,Checkout,mobile,face cleanser,Skincare,1,face cleanser
+S0412,2024-10-01 17:17:00,Landing,mobile,cheap headphones,Headphones,0,cheap headphone
+S0413,2024-10-01 22:27:00,Landing,tablet,best sunscreen,Skincare,1,best sunscreen
+S0413,2024-10-01 22:27:07,Category,tablet,best sunscreen,Skincare,1,best sunscreen
+S0413,2024-10-01 22:27:28,Product,tablet,best sunscreen,Skincare,1,best sunscreen
+S0414,2024-10-01 22:43:00,Landing,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0414,2024-10-01 22:43:40,Search,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0414,2024-10-01 22:44:10,Product,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0415,2024-10-01 09:58:00,Landing,desktop,android phone under 15000,Phones,1,android phone 15000
+S0415,2024-10-01 09:58:44,Landing,desktop,android phone under 15000,Phones,1,android phone 15000
+S0415,2024-10-01 09:59:00,Category,desktop,android phone under 15000,Phones,1,android phone 15000
+S0415,2024-10-01 09:59:57,Product,desktop,android phone under 15000,Phones,1,android phone 15000
+S0415,2024-10-01 10:00:48,Cart,desktop,android phone under 15000,Phones,1,android phone 15000
+S0416,2024-10-02 03:17:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0416,2024-10-02 03:17:29,Category,mobile,best laptop for college,Laptops,0,best laptop college
+S0417,2024-10-01 16:38:00,Landing,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0417,2024-10-01 16:38:20,Search,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0417,2024-10-01 16:39:17,Landing,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0417,2024-10-01 16:39:28,Product,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0418,2024-10-01 13:06:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0419,2024-10-01 11:44:00,Landing,desktop,cheap headphones,Headphones,1,cheap headphone
+S0419,2024-10-01 11:44:49,Category,desktop,cheap headphones,Headphones,1,cheap headphone
+S0419,2024-10-01 11:44:57,Product,desktop,cheap headphones,Headphones,1,cheap headphone
+S0420,2024-10-01 16:08:00,Landing,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0420,2024-10-01 16:08:17,Product,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0421,2024-10-01 15:50:00,Landing,desktop,budget smartphone,Phones,1,budget smartphone
+S0421,2024-10-01 15:50:44,Product,desktop,budget smartphone,Phones,1,budget smartphone
+S0422,2024-10-01 18:07:00,Landing,desktop,android phone under 15000,Phones,1,android phone 15000
+S0422,2024-10-01 18:07:36,Product,desktop,android phone under 15000,Phones,1,android phone 15000
+S0422,2024-10-01 18:08:21,Cart,desktop,android phone under 15000,Phones,1,android phone 15000
+S0422,2024-10-01 18:08:51,Checkout,desktop,android phone under 15000,Phones,1,android phone 15000
+S0422,2024-10-01 18:09:37,Purchase,desktop,android phone under 15000,Phones,1,android phone 15000
+S0423,2024-10-02 01:28:00,Landing,desktop,latest iPhone,Phones,0,latest iphone
+S0423,2024-10-02 01:28:15,Product,desktop,latest iPhone,Phones,0,latest iphone
+S0424,2024-10-01 15:35:00,Landing,desktop,budget smartphone,Phones,0,budget smartphone
+S0424,2024-10-01 15:35:32,Search,desktop,budget smartphone,Phones,0,budget smartphone
+S0424,2024-10-01 15:35:37,Landing,desktop,budget smartphone,Phones,0,budget smartphone
+S0424,2024-10-01 15:36:33,Category,desktop,budget smartphone,Phones,0,budget smartphone
+S0424,2024-10-01 15:37:31,Product,desktop,budget smartphone,Phones,0,budget smartphone
+S0424,2024-10-01 15:38:22,Category,desktop,budget smartphone,Phones,0,budget smartphone
+S0424,2024-10-01 15:39:12,Product,desktop,budget smartphone,Phones,0,budget smartphone
+S0424,2024-10-01 15:40:05,Cart,desktop,budget smartphone,Phones,0,budget smartphone
+S0425,2024-10-01 14:00:00,Landing,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0425,2024-10-01 14:00:54,Category,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0425,2024-10-01 14:01:32,Product,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0425,2024-10-01 14:01:57,Cart,mobile,macbook pro 2024,Laptops,1,macbook pro 2024
+S0426,2024-10-02 07:33:00,Landing,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0427,2024-10-01 11:29:00,Landing,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0427,2024-10-01 11:29:35,Category,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0427,2024-10-01 11:30:09,Product,mobile,macbook pro 2024,Laptops,0,macbook pro 2024
+S0428,2024-10-01 16:39:00,Landing,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0428,2024-10-01 16:39:37,Category,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0428,2024-10-01 16:39:52,Product,mobile,Samsung Galaxy deals,Phones,1,samsung galaxy deal
+S0429,2024-10-01 22:22:00,Landing,mobile,acne treatment,Skincare,0,acne treatment
+S0430,2024-10-01 12:31:00,Landing,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0430,2024-10-01 12:31:30,Search,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0430,2024-10-01 12:31:46,Category,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0430,2024-10-01 12:32:15,Product,desktop,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0431,2024-10-01 13:10:00,Landing,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0431,2024-10-01 13:10:10,Category,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0431,2024-10-01 13:11:05,Product,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0432,2024-10-01 10:04:00,Landing,tablet,macbook pro 2024,Laptops,0,macbook pro 2024
+S0433,2024-10-01 12:04:00,Landing,tablet,best sunscreen,Skincare,0,best sunscreen
+S0434,2024-10-01 16:39:00,Landing,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0434,2024-10-01 16:39:36,Search,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0434,2024-10-01 16:40:10,Product,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0434,2024-10-01 16:40:53,Help,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0435,2024-10-01 20:33:00,Landing,desktop,best sports shoes,Shoes,0,best sport shoe
+S0435,2024-10-01 20:33:13,Search,desktop,best sports shoes,Shoes,0,best sport shoe
+S0436,2024-10-02 03:39:00,Landing,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0436,2024-10-02 03:39:28,Product,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0437,2024-10-01 22:31:00,Landing,desktop,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0437,2024-10-01 22:31:31,Help,desktop,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0437,2024-10-01 22:32:02,Search,desktop,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0437,2024-10-01 22:32:09,Product,desktop,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0438,2024-10-02 03:56:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0438,2024-10-02 03:56:59,Category,mobile,best laptop for college,Laptops,0,best laptop college
+S0439,2024-10-01 10:08:00,Landing,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0439,2024-10-01 10:08:53,Landing,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0439,2024-10-01 10:09:17,Product,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0440,2024-10-02 07:02:00,Landing,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0440,2024-10-02 07:02:22,Search,desktop,macbook pro 2024,Laptops,1,macbook pro 2024
+S0441,2024-10-01 22:20:00,Landing,desktop,face cleanser,Skincare,0,face cleanser
+S0441,2024-10-01 22:20:08,Search,desktop,face cleanser,Skincare,0,face cleanser
+S0442,2024-10-02 02:01:00,Landing,desktop,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0443,2024-10-02 05:29:00,Landing,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0443,2024-10-02 05:29:09,Landing,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0443,2024-10-02 05:29:30,Category,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0443,2024-10-02 05:30:19,Product,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0443,2024-10-02 05:30:27,Cart,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0443,2024-10-02 05:30:42,Product,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0443,2024-10-02 05:31:07,Search,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0443,2024-10-02 05:31:37,Category,desktop,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0444,2024-10-02 02:52:00,Landing,mobile,Samsung Galaxy deals,Phones,0,samsung galaxy deal
+S0445,2024-10-01 13:26:00,Landing,desktop,best laptop for college,Laptops,0,best laptop college
+S0445,2024-10-01 13:26:18,Search,desktop,best laptop for college,Laptops,0,best laptop college
+S0446,2024-10-01 22:33:00,Landing,desktop,cheap headphones,Headphones,0,cheap headphone
+S0446,2024-10-01 22:33:49,Search,desktop,cheap headphones,Headphones,0,cheap headphone
+S0446,2024-10-01 22:34:34,Landing,desktop,cheap headphones,Headphones,0,cheap headphone
+S0446,2024-10-01 22:35:26,Category,desktop,cheap headphones,Headphones,0,cheap headphone
+S0447,2024-10-01 23:23:00,Landing,desktop,Sony WH-1000XM5,Headphones,1,sony wh1000xm5
+S0447,2024-10-01 23:23:19,Search,desktop,Sony WH-1000XM5,Headphones,1,sony wh1000xm5
+S0448,2024-10-01 19:46:00,Landing,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0449,2024-10-01 11:08:00,Landing,desktop,best laptop for college,Laptops,0,best laptop college
+S0449,2024-10-01 11:08:28,Landing,desktop,best laptop for college,Laptops,0,best laptop college
+S0449,2024-10-01 11:08:35,Product,desktop,best laptop for college,Laptops,0,best laptop college
+S0449,2024-10-01 11:09:28,Search,desktop,best laptop for college,Laptops,0,best laptop college
+S0449,2024-10-01 11:10:24,Category,desktop,best laptop for college,Laptops,0,best laptop college
+S0449,2024-10-01 11:10:33,Product,desktop,best laptop for college,Laptops,0,best laptop college
+S0449,2024-10-01 11:11:30,Category,desktop,best laptop for college,Laptops,0,best laptop college
+S0450,2024-10-01 21:44:00,Landing,desktop,best laptop for college,Laptops,0,best laptop college
+S0450,2024-10-01 21:44:10,Category,desktop,best laptop for college,Laptops,0,best laptop college
+S0450,2024-10-01 21:44:24,Product,desktop,best laptop for college,Laptops,0,best laptop college
+S0450,2024-10-01 21:45:07,Cart,desktop,best laptop for college,Laptops,0,best laptop college
+S0450,2024-10-01 21:45:31,Checkout,desktop,best laptop for college,Laptops,0,best laptop college
+S0450,2024-10-01 21:46:26,Purchase,desktop,best laptop for college,Laptops,0,best laptop college
+S0451,2024-10-01 22:03:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0451,2024-10-01 22:03:51,Product,mobile,best laptop for college,Laptops,0,best laptop college
+S0451,2024-10-01 22:04:08,Category,mobile,best laptop for college,Laptops,0,best laptop college
+S0451,2024-10-01 22:05:02,Product,mobile,best laptop for college,Laptops,0,best laptop college
+S0452,2024-10-01 22:28:00,Landing,desktop,latest iPhone,Phones,1,latest iphone
+S0453,2024-10-01 11:25:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0453,2024-10-01 11:25:51,Category,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0454,2024-10-01 16:23:00,Landing,desktop,nike air max,Shoes,1,nike air max
+S0454,2024-10-01 16:23:12,Search,desktop,nike air max,Shoes,1,nike air max
+S0454,2024-10-01 16:24:11,Help,desktop,nike air max,Shoes,1,nike air max
+S0455,2024-10-02 04:25:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0455,2024-10-02 04:25:13,Category,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0455,2024-10-02 04:25:49,Product,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0455,2024-10-02 04:26:10,Cart,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0455,2024-10-02 04:27:06,Product,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0455,2024-10-02 04:27:31,Help,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0456,2024-10-01 20:32:00,Landing,mobile,budget smartphone,Phones,1,budget smartphone
+S0456,2024-10-01 20:32:40,Search,mobile,budget smartphone,Phones,1,budget smartphone
+S0457,2024-10-01 22:54:00,Landing,desktop,nike air max,Shoes,0,nike air max
+S0457,2024-10-01 22:54:36,Product,desktop,nike air max,Shoes,0,nike air max
+S0457,2024-10-01 22:54:46,Cart,desktop,nike air max,Shoes,0,nike air max
+S0458,2024-10-01 14:46:00,Landing,mobile,acne treatment,Skincare,1,acne treatment
+S0459,2024-10-01 13:12:00,Landing,mobile,acne treatment,Skincare,0,acne treatment
+S0460,2024-10-01 15:56:00,Landing,mobile,adidas ultraboost,Shoes,1,adidas ultraboost
+S0460,2024-10-01 15:56:24,Category,mobile,adidas ultraboost,Shoes,1,adidas ultraboost
+S0461,2024-10-02 06:40:00,Landing,desktop,lightweight ultrabook,Laptops,1,lightweight ultrabook
+S0461,2024-10-02 06:40:51,Help,desktop,lightweight ultrabook,Laptops,1,lightweight ultrabook
+S0462,2024-10-01 11:11:00,Landing,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0462,2024-10-01 11:11:19,Search,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0462,2024-10-01 11:11:55,Category,mobile,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0463,2024-10-01 14:08:00,Landing,mobile,best laptop for college,Laptops,0,best laptop college
+S0464,2024-10-01 16:07:00,Landing,desktop,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0464,2024-10-01 16:07:38,Product,desktop,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0464,2024-10-01 16:07:46,Category,desktop,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0464,2024-10-01 16:08:19,Search,desktop,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0465,2024-10-01 22:48:00,Landing,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0465,2024-10-01 22:48:57,Search,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0465,2024-10-01 22:49:28,Category,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0465,2024-10-01 22:50:12,Search,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0465,2024-10-01 22:50:51,Product,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0466,2024-10-01 22:50:00,Landing,desktop,macbook pro 2024,Laptops,0,macbook pro 2024
+S0467,2024-10-02 02:38:00,Landing,mobile,budget smartphone,Phones,0,budget smartphone
+S0467,2024-10-02 02:38:26,Category,mobile,budget smartphone,Phones,0,budget smartphone
+S0467,2024-10-02 02:39:07,Help,mobile,budget smartphone,Phones,0,budget smartphone
+S0467,2024-10-02 02:39:25,Landing,mobile,budget smartphone,Phones,0,budget smartphone
+S0467,2024-10-02 02:39:32,Product,mobile,budget smartphone,Phones,0,budget smartphone
+S0468,2024-10-02 00:54:00,Landing,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0468,2024-10-02 00:54:20,Category,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0468,2024-10-02 00:54:57,Product,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0468,2024-10-02 00:55:54,Search,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0468,2024-10-02 00:56:25,Product,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0468,2024-10-02 00:56:35,Category,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0468,2024-10-02 00:57:07,Product,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0468,2024-10-02 00:58:05,Category,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0468,2024-10-02 00:58:42,Product,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0468,2024-10-02 00:59:34,Cart,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0468,2024-10-02 01:00:00,Checkout,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0468,2024-10-02 01:00:06,Purchase,tablet,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0469,2024-10-01 15:31:00,Landing,tablet,budget smartphone,Phones,1,budget smartphone
+S0469,2024-10-01 15:31:11,Landing,tablet,budget smartphone,Phones,1,budget smartphone
+S0469,2024-10-01 15:31:29,Product,tablet,budget smartphone,Phones,1,budget smartphone
+S0470,2024-10-01 10:07:00,Landing,desktop,acne treatment,Skincare,1,acne treatment
+S0470,2024-10-01 10:07:33,Category,desktop,acne treatment,Skincare,1,acne treatment
+S0470,2024-10-01 10:07:47,Product,desktop,acne treatment,Skincare,1,acne treatment
+S0471,2024-10-02 07:35:00,Landing,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0471,2024-10-02 07:35:21,Search,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0471,2024-10-02 07:35:30,Product,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0472,2024-10-01 19:20:00,Landing,desktop,cheap headphones,Headphones,0,cheap headphone
+S0472,2024-10-01 19:20:45,Help,desktop,cheap headphones,Headphones,0,cheap headphone
+S0472,2024-10-01 19:21:38,Search,desktop,cheap headphones,Headphones,0,cheap headphone
+S0472,2024-10-01 19:21:45,Product,desktop,cheap headphones,Headphones,0,cheap headphone
+S0472,2024-10-01 19:22:14,Cart,desktop,cheap headphones,Headphones,0,cheap headphone
+S0473,2024-10-01 17:45:00,Landing,desktop,latest iPhone,Phones,0,latest iphone
+S0473,2024-10-01 17:45:59,Category,desktop,latest iPhone,Phones,0,latest iphone
+S0473,2024-10-01 17:46:32,Product,desktop,latest iPhone,Phones,0,latest iphone
+S0474,2024-10-01 08:19:00,Landing,mobile,face cleanser,Skincare,0,face cleanser
+S0474,2024-10-01 08:19:48,Category,mobile,face cleanser,Skincare,0,face cleanser
+S0474,2024-10-01 08:20:27,Search,mobile,face cleanser,Skincare,0,face cleanser
+S0474,2024-10-01 08:21:01,Landing,mobile,face cleanser,Skincare,0,face cleanser
+S0474,2024-10-01 08:21:27,Product,mobile,face cleanser,Skincare,0,face cleanser
+S0475,2024-10-02 05:46:00,Landing,desktop,nike air max,Shoes,0,nike air max
+S0475,2024-10-02 05:46:52,Help,desktop,nike air max,Shoes,0,nike air max
+S0476,2024-10-01 09:39:00,Landing,mobile,latest iPhone,Phones,1,latest iphone
+S0476,2024-10-01 09:39:08,Category,mobile,latest iPhone,Phones,1,latest iphone
+S0477,2024-10-02 03:37:00,Landing,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0477,2024-10-02 03:37:26,Product,mobile,adidas ultraboost,Shoes,0,adidas ultraboost
+S0478,2024-10-01 23:16:00,Landing,mobile,latest iPhone,Phones,0,latest iphone
+S0478,2024-10-01 23:16:38,Product,mobile,latest iPhone,Phones,0,latest iphone
+S0478,2024-10-01 23:17:27,Category,mobile,latest iPhone,Phones,0,latest iphone
+S0478,2024-10-01 23:18:20,Product,mobile,latest iPhone,Phones,0,latest iphone
+S0478,2024-10-01 23:18:31,Category,mobile,latest iPhone,Phones,0,latest iphone
+S0478,2024-10-01 23:19:11,Product,mobile,latest iPhone,Phones,0,latest iphone
+S0479,2024-10-02 02:16:00,Landing,desktop,budget smartphone,Phones,0,budget smartphone
+S0479,2024-10-02 02:16:36,Category,desktop,budget smartphone,Phones,0,budget smartphone
+S0479,2024-10-02 02:17:18,Product,desktop,budget smartphone,Phones,0,budget smartphone
+S0479,2024-10-02 02:18:12,Cart,desktop,budget smartphone,Phones,0,budget smartphone
+S0480,2024-10-01 19:29:00,Landing,mobile,best sports shoes,Shoes,0,best sport shoe
+S0480,2024-10-01 19:29:29,Help,mobile,best sports shoes,Shoes,0,best sport shoe
+S0481,2024-10-02 05:34:00,Landing,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0481,2024-10-02 05:34:31,Search,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0481,2024-10-02 05:35:03,Product,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0481,2024-10-02 05:35:48,Help,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0481,2024-10-02 05:36:12,Search,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0481,2024-10-02 05:36:55,Product,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0481,2024-10-02 05:37:22,Cart,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0481,2024-10-02 05:38:18,Checkout,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0481,2024-10-02 05:38:55,Purchase,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0482,2024-10-01 09:08:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0483,2024-10-01 11:22:00,Landing,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0483,2024-10-01 11:22:37,Help,mobile,noise cancelling headphones,Headphones,0,noise cancelling headphone
+S0484,2024-10-01 13:37:00,Landing,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0484,2024-10-01 13:37:22,Category,mobile,moisturizer for dry skin,Skincare,0,moisturizer dry skin
+S0485,2024-10-01 12:34:00,Landing,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0485,2024-10-01 12:34:50,Category,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0485,2024-10-01 12:35:32,Product,mobile,cheap sneakers,Shoes,0,cheap sneaker
+S0486,2024-10-01 18:02:00,Landing,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0486,2024-10-01 18:02:46,Category,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0486,2024-10-01 18:02:56,Product,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0487,2024-10-01 12:54:00,Landing,mobile,best sunscreen,Skincare,1,best sunscreen
+S0487,2024-10-01 12:54:58,Search,mobile,best sunscreen,Skincare,1,best sunscreen
+S0488,2024-10-01 17:27:00,Landing,desktop,nike air max,Shoes,0,nike air max
+S0488,2024-10-01 17:27:47,Search,desktop,nike air max,Shoes,0,nike air max
+S0488,2024-10-01 17:28:29,Landing,desktop,nike air max,Shoes,0,nike air max
+S0488,2024-10-01 17:29:09,Search,desktop,nike air max,Shoes,0,nike air max
+S0488,2024-10-01 17:29:56,Category,desktop,nike air max,Shoes,0,nike air max
+S0489,2024-10-01 09:31:00,Landing,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0489,2024-10-01 09:31:15,Search,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0489,2024-10-01 09:31:32,Landing,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0489,2024-10-01 09:31:43,Category,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0489,2024-10-01 09:32:41,Product,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0489,2024-10-01 09:33:13,Cart,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0489,2024-10-01 09:34:12,Checkout,mobile,lightweight ultrabook,Laptops,0,lightweight ultrabook
+S0490,2024-10-01 23:33:00,Landing,desktop,best sports shoes,Shoes,0,best sport shoe
+S0490,2024-10-01 23:33:42,Category,desktop,best sports shoes,Shoes,0,best sport shoe
+S0490,2024-10-01 23:34:15,Product,desktop,best sports shoes,Shoes,0,best sport shoe
+S0490,2024-10-01 23:34:29,Cart,desktop,best sports shoes,Shoes,0,best sport shoe
+S0491,2024-10-01 12:01:00,Landing,desktop,best sports shoes,Shoes,1,best sport shoe
+S0492,2024-10-01 21:22:00,Landing,desktop,best sports shoes,Shoes,0,best sport shoe
+S0492,2024-10-01 21:22:16,Category,desktop,best sports shoes,Shoes,0,best sport shoe
+S0492,2024-10-01 21:23:02,Product,desktop,best sports shoes,Shoes,0,best sport shoe
+S0492,2024-10-01 21:23:27,Search,desktop,best sports shoes,Shoes,0,best sport shoe
+S0493,2024-10-01 08:51:00,Landing,desktop,bluetooth earbuds,Headphones,0,bluetooth earbuds
+S0494,2024-10-01 17:03:00,Landing,desktop,acne treatment,Skincare,0,acne treatment
+S0494,2024-10-01 17:03:50,Landing,desktop,acne treatment,Skincare,0,acne treatment
+S0494,2024-10-01 17:04:36,Search,desktop,acne treatment,Skincare,0,acne treatment
+S0494,2024-10-01 17:04:56,Product,desktop,acne treatment,Skincare,0,acne treatment
+S0495,2024-10-02 04:36:00,Landing,tablet,best sports shoes,Shoes,0,best sport shoe
+S0495,2024-10-02 04:36:49,Category,tablet,best sports shoes,Shoes,0,best sport shoe
+S0495,2024-10-02 04:37:15,Search,tablet,best sports shoes,Shoes,0,best sport shoe
+S0495,2024-10-02 04:37:24,Category,tablet,best sports shoes,Shoes,0,best sport shoe
+S0495,2024-10-02 04:37:45,Help,tablet,best sports shoes,Shoes,0,best sport shoe
+S0495,2024-10-02 04:38:05,Search,tablet,best sports shoes,Shoes,0,best sport shoe
+S0496,2024-10-01 21:44:00,Landing,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0496,2024-10-01 21:44:51,Category,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0496,2024-10-01 21:45:08,Help,mobile,gaming laptop RTX,Laptops,0,gaming laptop rtx
+S0497,2024-10-02 07:15:00,Landing,mobile,acne treatment,Skincare,0,acne treatment
+S0497,2024-10-02 07:15:21,Category,mobile,acne treatment,Skincare,0,acne treatment
+S0498,2024-10-01 17:56:00,Landing,desktop,running shoes men,Shoes,0,running shoe men
+S0498,2024-10-01 17:56:22,Help,desktop,running shoes men,Shoes,0,running shoe men
+S0498,2024-10-01 17:57:20,Search,desktop,running shoes men,Shoes,0,running shoe men
+S0498,2024-10-01 17:57:41,Product,desktop,running shoes men,Shoes,0,running shoe men
+S0498,2024-10-01 17:58:17,Category,desktop,running shoes men,Shoes,0,running shoe men
+S0499,2024-10-02 00:13:00,Landing,mobile,acne treatment,Skincare,1,acne treatment
+S0499,2024-10-02 00:13:55,Product,mobile,acne treatment,Skincare,1,acne treatment
+S0499,2024-10-02 00:14:08,Cart,mobile,acne treatment,Skincare,1,acne treatment
+S0499,2024-10-02 00:14:23,Checkout,mobile,acne treatment,Skincare,1,acne treatment
+S0499,2024-10-02 00:15:22,Purchase,mobile,acne treatment,Skincare,1,acne treatment
